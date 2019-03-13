@@ -1,0 +1,29 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    scroll-snap-type: y proximity;
+}
+
+.child {
+    scroll-snap-align: start;
+}
+
+#avatar {
+    border-radius: 50%;
+    width: 30%;
+    height: 30%;
+}
+
+#bar {
+    margin-right: 50%;
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+}
+
+#summary {
+    padding-top: 100pt;
+    padding-bottom: 30%;
+}
+
+#projects {
+    padding-bottom: 30%;
+}

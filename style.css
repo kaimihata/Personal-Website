@@ -1,10 +1,45 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    scroll-snap-type: y proximity;
+    background-color: #EAE7DC;
 }
 
-.child {
-    scroll-snap-align: start;
+ul {
+    list-style-type: none;
+}
+
+h1 {
+    font-weight: 600;
+    color: #E85A4F;
+}
+
+h2 {
+    font-weight: 500;
+    color: #E85A4F;
+}
+
+h3 {
+    font-weight: 400;
+    color: #E98074;
+}
+
+h4 {
+    font-weight: 300;
+    font-size: 14pt;
+    color: #8E8D84;
+}
+
+h5 {
+    font-weight: 200;
+    font-size: 12pt;
+    color: #8E8D84;
+}
+
+#header {
+    padding-bottom: 5%;
+}
+
+#paragraph {
+    color: #8E8D84;
 }
 
 #avatar {
@@ -15,7 +50,7 @@ body {
 
 #bar {
     margin-right: 50%;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #8E8D84;
     padding-bottom: 5px;
 }
 

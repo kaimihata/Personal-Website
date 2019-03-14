@@ -1,0 +1,3352 @@
+[
+    {
+        "distance": "4.62",
+        "name": "Tuscany with Friends",
+        "pace_sec": "774.89",
+        "int_time": "3580",
+        "pace": "12:54",
+        "date": "2017-06-01 22:39:16",
+        "str_time": "59:40",
+        "gps": "activities/1016804615.gpx"
+    },
+    {
+        "distance": "4.89",
+        "name": "Afternoon Run",
+        "pace_sec": "618.61",
+        "int_time": "3025",
+        "pace": "10:18",
+        "date": "2017-06-04 22:53:54",
+        "str_time": "50:25",
+        "gps": "activities/1021723836.gpx"
+    },
+    {
+        "distance": "5.04",
+        "name": "Lunch Run",
+        "pace_sec": "504.37",
+        "int_time": "2542",
+        "pace": "8:24",
+        "date": "2017-06-05 19:06:02",
+        "str_time": "42:22",
+        "gps": "activities/1022894410.gpx"
+    },
+    {
+        "distance": "4.63",
+        "name": "Afternoon Run",
+        "pace_sec": "559.4",
+        "int_time": "2590",
+        "pace": "9:19",
+        "date": "2017-06-06 22:35:48",
+        "str_time": "43:10",
+        "gps": "activities/1024457658.gpx"
+    },
+    {
+        "distance": "4.53",
+        "name": "Morning Run",
+        "pace_sec": "526.05",
+        "int_time": "2383",
+        "pace": "8:46",
+        "date": "2017-06-08 17:10:58",
+        "str_time": "39:43",
+        "gps": "activities/1027040750.gpx"
+    },
+    {
+        "distance": "6.0",
+        "name": "Lunch Run",
+        "pace_sec": "531.5",
+        "int_time": "3189",
+        "pace": "8:51",
+        "date": "2017-06-10 19:17:36",
+        "str_time": "53:09",
+        "gps": "activities/1030350950.gpx"
+    },
+    {
+        "distance": "3.13",
+        "name": "Morning Run",
+        "pace_sec": "400.32",
+        "int_time": "1253",
+        "pace": "6:40",
+        "date": "2017-06-11 16:02:05",
+        "str_time": "20:53",
+        "gps": "activities/1031898392.gpx"
+    },
+    {
+        "distance": "5.56",
+        "name": "Afternoon Run",
+        "pace_sec": "494.96",
+        "int_time": "2752",
+        "pace": "8:14",
+        "date": "2017-06-12 20:45:28",
+        "str_time": "45:52",
+        "gps": "activities/1033719975.gpx"
+    },
+    {
+        "distance": "5.02",
+        "name": "Afternoon Run",
+        "pace_sec": "474.7",
+        "int_time": "2383",
+        "pace": "7:54",
+        "date": "2017-06-13 22:48:17",
+        "str_time": "39:43",
+        "gps": "activities/1035426574.gpx"
+    },
+    {
+        "distance": "4.18",
+        "name": "Afternoon Run",
+        "pace_sec": "442.58",
+        "int_time": "1850",
+        "pace": "7:22",
+        "date": "2017-06-16 22:44:32",
+        "str_time": "30:50",
+        "gps": "activities/1043194785.gpx"
+    },
+    {
+        "distance": "3.88",
+        "name": "Lunch Run",
+        "pace_sec": "497.68",
+        "int_time": "1931",
+        "pace": "8:17",
+        "date": "2017-06-18 18:15:10",
+        "str_time": "32:11",
+        "gps": "activities/1043219074.gpx"
+    },
+    {
+        "distance": "2.6",
+        "name": "Afternoon Run",
+        "pace_sec": "968.46",
+        "int_time": "2518",
+        "pace": "16:08",
+        "date": "2017-06-20 20:10:33",
+        "str_time": "41:58",
+        "gps": "activities/1046359465.gpx"
+    },
+    {
+        "distance": "3.9",
+        "name": "Evening Run",
+        "pace_sec": "180.51",
+        "int_time": "704",
+        "pace": "3:00",
+        "date": "2017-06-22 01:39:52",
+        "str_time": "11:44",
+        "gps": "activities/1049605388.gpx"
+    },
+    {
+        "distance": "1.52",
+        "name": "Afternoon Run",
+        "pace_sec": "461.84",
+        "int_time": "702",
+        "pace": "7:41",
+        "date": "2017-06-22 22:55:28",
+        "str_time": "11:42",
+        "gps": "activities/1049636973.gpx"
+    },
+    {
+        "distance": "4.95",
+        "name": "Afternoon Run",
+        "pace_sec": "497.17",
+        "int_time": "2461",
+        "pace": "8:17",
+        "date": "2017-06-23 22:54:15",
+        "str_time": "41:01",
+        "gps": "activities/1055870486.gpx"
+    },
+    {
+        "distance": "6.04",
+        "name": "Afternoon Run",
+        "pace_sec": "449.01",
+        "int_time": "2712",
+        "pace": "7:29",
+        "date": "2017-06-26 23:48:39",
+        "str_time": "45:12",
+        "gps": "activities/1055870516.gpx"
+    },
+    {
+        "distance": "3.0",
+        "name": "Afternoon Run",
+        "pace_sec": "1207.33",
+        "int_time": "3622",
+        "pace": "20:07",
+        "date": "2017-06-27 22:21:03",
+        "str_time": "1:22",
+        "gps": "activities/1058366870.gpx"
+    },
+    {
+        "distance": "4.94",
+        "name": "Afternoon Run",
+        "pace_sec": "631.78",
+        "int_time": "3121",
+        "pace": "10:31",
+        "date": "2017-06-28 22:30:34",
+        "str_time": "52:01",
+        "gps": "activities/1058927958.gpx"
+    },
+    {
+        "distance": "2.02",
+        "name": "Afternoon Run",
+        "pace_sec": "550.99",
+        "int_time": "1113",
+        "pace": "9:10",
+        "date": "2017-07-03 20:23:40",
+        "str_time": "18:33",
+        "gps": "activities/1068033859.gpx"
+    },
+    {
+        "distance": "7.09",
+        "name": "Morning Run",
+        "pace_sec": "491.54",
+        "int_time": "3485",
+        "pace": "8:11",
+        "date": "2017-07-02 15:16:28",
+        "str_time": "58:05",
+        "gps": "activities/1068033874.gpx"
+    },
+    {
+        "distance": "1.37",
+        "name": "Afternoon Run",
+        "pace_sec": "548.18",
+        "int_time": "751",
+        "pace": "9:08",
+        "date": "2017-07-04 22:49:52",
+        "str_time": "12:31",
+        "gps": "activities/1068043041.gpx"
+    },
+    {
+        "distance": "1.35",
+        "name": "Afternoon Run",
+        "pace_sec": "577.04",
+        "int_time": "779",
+        "pace": "9:37",
+        "date": "2017-07-04 23:03:04",
+        "str_time": "12:59",
+        "gps": "activities/1068054340.gpx"
+    },
+    {
+        "distance": "1.45",
+        "name": "Afternoon Run",
+        "pace_sec": "550.34",
+        "int_time": "798",
+        "pace": "9:10",
+        "date": "2017-07-04 23:16:21",
+        "str_time": "13:18",
+        "gps": "activities/1068064847.gpx"
+    },
+    {
+        "distance": "1.0",
+        "name": "Afternoon Run",
+        "pace_sec": "426.0",
+        "int_time": "426",
+        "pace": "7:06",
+        "date": "2017-07-04 23:29:53",
+        "str_time": "7:06",
+        "gps": "activities/1068070484.gpx"
+    },
+    {
+        "distance": "4.92",
+        "name": "Afternoon Run",
+        "pace_sec": "583.94",
+        "int_time": "2873",
+        "pace": "9:43",
+        "date": "2017-07-07 21:20:48",
+        "str_time": "47:53",
+        "gps": "activities/1072492450.gpx"
+    },
+    {
+        "distance": "2.91",
+        "name": "Morning Run",
+        "pace_sec": "535.4",
+        "int_time": "1558",
+        "pace": "8:55",
+        "date": "2017-07-08 17:21:25",
+        "str_time": "25:58",
+        "gps": "activities/1073906528.gpx"
+    },
+    {
+        "distance": "3.05",
+        "name": "Morning Run",
+        "pace_sec": "441.31",
+        "int_time": "1346",
+        "pace": "7:21",
+        "date": "2017-07-10 14:15:14",
+        "str_time": "22:26",
+        "gps": "activities/1076825409.gpx"
+    },
+    {
+        "distance": "2.9",
+        "name": "Afternoon Run",
+        "pace_sec": "453.79",
+        "int_time": "1316",
+        "pace": "7:33",
+        "date": "2017-07-12 21:29:58",
+        "str_time": "21:56",
+        "gps": "activities/1082235011.gpx"
+    },
+    {
+        "distance": "4.35",
+        "name": "Afternoon Run",
+        "pace_sec": "842.53",
+        "int_time": "3665",
+        "pace": "14:02",
+        "date": "2017-07-11 20:22:13",
+        "str_time": "1:1:05",
+        "gps": "activities/1082235022.gpx"
+    },
+    {
+        "distance": "3.69",
+        "name": "Afternoon Run",
+        "pace_sec": "518.97",
+        "int_time": "1915",
+        "pace": "8:38",
+        "date": "2017-07-13 23:44:19",
+        "str_time": "31:55",
+        "gps": "activities/1082296768.gpx"
+    },
+    {
+        "distance": "3.1",
+        "name": "Morning Run",
+        "pace_sec": "482.58",
+        "int_time": "1496",
+        "pace": "8:02",
+        "date": "2017-07-14 14:02:23",
+        "str_time": "24:56",
+        "gps": "activities/1083009996.gpx"
+    },
+    {
+        "distance": "2.88",
+        "name": "Lunch Run",
+        "pace_sec": "507.29",
+        "int_time": "1461",
+        "pace": "8:27",
+        "date": "2017-07-14 18:44:07",
+        "str_time": "24:21",
+        "gps": "activities/1083374606.gpx"
+    },
+    {
+        "distance": "3.52",
+        "name": "Morning Run",
+        "pace_sec": "761.08",
+        "int_time": "2679",
+        "pace": "12:41",
+        "date": "2017-07-15 17:15:51",
+        "str_time": "44:39",
+        "gps": "activities/1084926256.gpx"
+    },
+    {
+        "distance": "2.94",
+        "name": "Afternoon Run",
+        "pace_sec": "460.54",
+        "int_time": "1354",
+        "pace": "7:40",
+        "date": "2017-07-17 21:13:24",
+        "str_time": "22:34",
+        "gps": "activities/1088602824.gpx"
+    },
+    {
+        "distance": "4.79",
+        "name": "Lunch Run",
+        "pace_sec": "493.74",
+        "int_time": "2365",
+        "pace": "8:13",
+        "date": "2017-07-22 18:29:10",
+        "str_time": "39:25",
+        "gps": "activities/1096455167.gpx"
+    },
+    {
+        "distance": "3.03",
+        "name": "Afternoon Run",
+        "pace_sec": "538.94",
+        "int_time": "1633",
+        "pace": "8:58",
+        "date": "2017-07-21 21:20:57",
+        "str_time": "27:13",
+        "gps": "activities/1096455171.gpx"
+    },
+    {
+        "distance": "8.05",
+        "name": "Morning Run",
+        "pace_sec": "431.8",
+        "int_time": "3476",
+        "pace": "7:11",
+        "date": "2017-07-23 16:31:31",
+        "str_time": "57:56",
+        "gps": "activities/1098111426.gpx"
+    },
+    {
+        "distance": "3.07",
+        "name": "Morning Run",
+        "pace_sec": "455.37",
+        "int_time": "1398",
+        "pace": "7:35",
+        "date": "2017-07-24 14:36:37",
+        "str_time": "23:18",
+        "gps": "activities/1099276183.gpx"
+    },
+    {
+        "distance": "2.94",
+        "name": "Afternoon Run",
+        "pace_sec": "452.72",
+        "int_time": "1331",
+        "pace": "7:32",
+        "date": "2017-07-24 21:09:22",
+        "str_time": "22:11",
+        "gps": "activities/1099849170.gpx"
+    },
+    {
+        "distance": "2.01",
+        "name": "Morning Run",
+        "pace_sec": "428.36",
+        "int_time": "861",
+        "pace": "7:08",
+        "date": "2017-07-26 14:12:26",
+        "str_time": "14:21",
+        "gps": "activities/1102437305.gpx"
+    },
+    {
+        "distance": "5.05",
+        "name": "Afternoon Run",
+        "pace_sec": "451.29",
+        "int_time": "2279",
+        "pace": "7:31",
+        "date": "2017-07-26 00:35:22",
+        "str_time": "37:59",
+        "gps": "activities/1102437333.gpx"
+    },
+    {
+        "distance": "3.14",
+        "name": "Evening Run",
+        "pace_sec": "398.73",
+        "int_time": "1252",
+        "pace": "6:38",
+        "date": "2017-07-30 01:01:15",
+        "str_time": "20:52",
+        "gps": "activities/1107957769.gpx"
+    },
+    {
+        "distance": "2.96",
+        "name": "Morning Run",
+        "pace_sec": "421.96",
+        "int_time": "1249",
+        "pace": "7:01",
+        "date": "2017-07-31 13:32:34",
+        "str_time": "20:49",
+        "gps": "activities/1111226638.gpx"
+    },
+    {
+        "distance": "4.85",
+        "name": "Afternoon Run",
+        "pace_sec": "460.62",
+        "int_time": "2234",
+        "pace": "7:40",
+        "date": "2017-07-31 22:39:42",
+        "str_time": "37:14",
+        "gps": "activities/1111226671.gpx"
+    },
+    {
+        "distance": "3.91",
+        "name": "Lunch Run",
+        "pace_sec": "463.68",
+        "int_time": "1813",
+        "pace": "7:43",
+        "date": "2017-08-02 19:48:45",
+        "str_time": "30:13",
+        "gps": "activities/1114404828.gpx"
+    },
+    {
+        "distance": "4.22",
+        "name": "Evening Run",
+        "pace_sec": "438.39",
+        "int_time": "1850",
+        "pace": "7:18",
+        "date": "2017-08-05 03:06:51",
+        "str_time": "30:50",
+        "gps": "activities/1117708377.gpx"
+    },
+    {
+        "distance": "4.94",
+        "name": "Lunch Run",
+        "pace_sec": "252.02",
+        "int_time": "1245",
+        "pace": "4:12",
+        "date": "2017-08-06 18:09:09",
+        "str_time": "20:45",
+        "gps": "activities/1120726045.gpx"
+    },
+    {
+        "distance": "4.7",
+        "name": "Morning Run",
+        "pace_sec": "687.87",
+        "int_time": "3233",
+        "pace": "11:27",
+        "date": "2017-08-05 16:58:33",
+        "str_time": "53:53",
+        "gps": "activities/1120726063.gpx"
+    },
+    {
+        "distance": "3.83",
+        "name": "Evening Run",
+        "pace_sec": "21.41",
+        "int_time": "82",
+        "pace": "21",
+        "date": "2017-08-08 03:27:35",
+        "str_time": "1:22",
+        "gps": "activities/1128746910.gpx"
+    },
+    {
+        "distance": "4.6",
+        "name": "Afternoon Run",
+        "pace_sec": "531.09",
+        "int_time": "2443",
+        "pace": "8:51",
+        "date": "2017-08-10 23:36:03",
+        "str_time": "40:43",
+        "gps": "activities/1128962741.gpx"
+    },
+    {
+        "distance": "4.74",
+        "name": "Afternoon Run",
+        "pace_sec": "505.06",
+        "int_time": "2394",
+        "pace": "8:25",
+        "date": "2017-08-11 20:47:13",
+        "str_time": "39:54",
+        "gps": "activities/1128962742.gpx"
+    },
+    {
+        "distance": "7.06",
+        "name": "Morning Run",
+        "pace_sec": "800.0",
+        "int_time": "5648",
+        "pace": "13:20",
+        "date": "2017-08-13 17:40:05",
+        "str_time": "1:34:08",
+        "gps": "activities/1132203390.gpx"
+    },
+    {
+        "distance": "2.95",
+        "name": "Afternoon Run",
+        "pace_sec": "441.02",
+        "int_time": "1301",
+        "pace": "7:21",
+        "date": "2017-08-14 23:13:27",
+        "str_time": "21:41",
+        "gps": "activities/1133974208.gpx"
+    },
+    {
+        "distance": "3.61",
+        "name": "Afternoon Run",
+        "pace_sec": "484.76",
+        "int_time": "1750",
+        "pace": "8:04",
+        "date": "2017-08-15 21:42:00",
+        "str_time": "29:10",
+        "gps": "activities/1135623824.gpx"
+    },
+    {
+        "distance": "4.52",
+        "name": "Afternoon Run",
+        "pace_sec": "677.43",
+        "int_time": "3062",
+        "pace": "11:17",
+        "date": "2017-08-16 22:56:09",
+        "str_time": "51:02",
+        "gps": "activities/1137458810.gpx"
+    },
+    {
+        "distance": "4.59",
+        "name": "Afternoon Run",
+        "pace_sec": "379.74",
+        "int_time": "1743",
+        "pace": "6:19",
+        "date": "2017-08-19 21:16:04",
+        "str_time": "29:03",
+        "gps": "activities/1141977539.gpx"
+    },
+    {
+        "distance": "4.77",
+        "name": "Lunch Run",
+        "pace_sec": "489.31",
+        "int_time": "2334",
+        "pace": "8:09",
+        "date": "2017-08-18 19:36:59",
+        "str_time": "38:54",
+        "gps": "activities/1141977547.gpx"
+    },
+    {
+        "distance": "10.04",
+        "name": "Lunch Run",
+        "pace_sec": "522.41",
+        "int_time": "5245",
+        "pace": "8:42",
+        "date": "2017-08-20 18:54:55",
+        "str_time": "1:27:25",
+        "gps": "activities/1143813639.gpx"
+    },
+    {
+        "distance": "6.26",
+        "name": "Afternoon Run",
+        "pace_sec": "637.38",
+        "int_time": "3990",
+        "pace": "10:37",
+        "date": "2017-08-23 22:51:16",
+        "str_time": "1:6:30",
+        "gps": "activities/1148917166.gpx"
+    },
+    {
+        "distance": "0.98",
+        "name": "Afternoon Run",
+        "pace_sec": "635.71",
+        "int_time": "623",
+        "pace": "10:35",
+        "date": "2017-08-24 22:42:22",
+        "str_time": "10:23",
+        "gps": "activities/1153247142.gpx"
+    },
+    {
+        "distance": "2.72",
+        "name": "Afternoon Run",
+        "pace_sec": "431.99",
+        "int_time": "1175",
+        "pace": "7:11",
+        "date": "2017-08-25 23:11:56",
+        "str_time": "19:35",
+        "gps": "activities/1153247159.gpx"
+    },
+    {
+        "distance": "5.06",
+        "name": "Morning Run",
+        "pace_sec": "610.67",
+        "int_time": "3090",
+        "pace": "10:10",
+        "date": "2017-08-26 16:17:52",
+        "str_time": "51:30",
+        "gps": "activities/1153366295.gpx"
+    },
+    {
+        "distance": "3.23",
+        "name": "Afternoon Run",
+        "pace_sec": "1400.0",
+        "int_time": "4522",
+        "pace": "23:20",
+        "date": "2017-08-28 22:34:40",
+        "str_time": "1:15:22",
+        "gps": "activities/1157281146.gpx"
+    },
+    {
+        "distance": "2.13",
+        "name": "Afternoon Run",
+        "pace_sec": "727.7",
+        "int_time": "1550",
+        "pace": "12:07",
+        "date": "2017-08-30 22:41:29",
+        "str_time": "25:50",
+        "gps": "activities/1160577223.gpx"
+    },
+    {
+        "distance": "1.78",
+        "name": "Morning Run",
+        "pace_sec": "523.03",
+        "int_time": "931",
+        "pace": "8:43",
+        "date": "2017-09-03 16:04:37",
+        "str_time": "15:31",
+        "gps": "activities/1171027706.gpx"
+    },
+    {
+        "distance": "5.27",
+        "name": "Afternoon Run",
+        "pace_sec": "11000.19",
+        "int_time": "57971",
+        "pace": "3.0:3:20",
+        "date": "2017-09-07 22:43:22",
+        "str_time": "16:6:11",
+        "gps": "activities/1174147594.gpx"
+    },
+    {
+        "distance": "3.18",
+        "name": "Afternoon Run",
+        "pace_sec": "375.47",
+        "int_time": "1194",
+        "pace": "6:15",
+        "date": "2017-09-13 00:04:52",
+        "str_time": "19:54",
+        "gps": "activities/1181393850.gpx"
+    },
+    {
+        "distance": "5.84",
+        "name": "Afternoon Run",
+        "pace_sec": "9234.08",
+        "int_time": "53927",
+        "pace": "2.0:33:54",
+        "date": "2017-09-13 22:49:11",
+        "str_time": "14:58:47",
+        "gps": "activities/1183575302.gpx"
+    },
+    {
+        "distance": "4.6",
+        "name": "Afternoon Run",
+        "pace_sec": "639.57",
+        "int_time": "2942",
+        "pace": "10:39",
+        "date": "2017-09-14 22:49:33",
+        "str_time": "49:02",
+        "gps": "activities/1184401592.gpx"
+    },
+    {
+        "distance": "1.19",
+        "name": "Afternoon Run",
+        "pace_sec": "662.18",
+        "int_time": "788",
+        "pace": "11:02",
+        "date": "2017-09-15 22:39:52",
+        "str_time": "13:08",
+        "gps": "activities/1185845765.gpx"
+    },
+    {
+        "distance": "3.16",
+        "name": "Afternoon Run",
+        "pace_sec": "380.7",
+        "int_time": "1203",
+        "pace": "6:20",
+        "date": "2017-09-16 20:06:11",
+        "str_time": "20:03",
+        "gps": "activities/1190661349.gpx"
+    },
+    {
+        "distance": "3.45",
+        "name": "Afternoon Run",
+        "pace_sec": "644.93",
+        "int_time": "2225",
+        "pace": "10:44",
+        "date": "2017-09-18 23:02:01",
+        "str_time": "37:05",
+        "gps": "activities/1190661618.gpx"
+    },
+    {
+        "distance": "3.14",
+        "name": "Afternoon Run",
+        "pace_sec": "373.57",
+        "int_time": "1173",
+        "pace": "6:13",
+        "date": "2017-09-20 00:14:36",
+        "str_time": "19:33",
+        "gps": "activities/1192342500.gpx"
+    },
+    {
+        "distance": "3.07",
+        "name": "Lunch Run",
+        "pace_sec": "415.64",
+        "int_time": "1276",
+        "pace": "6:55",
+        "date": "2017-09-23 19:29:04",
+        "str_time": "21:16",
+        "gps": "activities/1201787535.gpx"
+    },
+    {
+        "distance": "5.22",
+        "name": "Afternoon Run",
+        "pace_sec": "532.18",
+        "int_time": "2778",
+        "pace": "8:52",
+        "date": "2017-09-25 23:01:58",
+        "str_time": "46:18",
+        "gps": "activities/1201787550.gpx"
+    },
+    {
+        "distance": "2.99",
+        "name": "Afternoon Run",
+        "pace_sec": "410.03",
+        "int_time": "1226",
+        "pace": "6:50",
+        "date": "2017-09-27 00:05:48",
+        "str_time": "20:26",
+        "gps": "activities/1204966199.gpx"
+    },
+    {
+        "distance": "2.79",
+        "name": "Afternoon Run",
+        "pace_sec": "1506.45",
+        "int_time": "4203",
+        "pace": "25:06",
+        "date": "2017-09-27 23:07:30",
+        "str_time": "1:10:03",
+        "gps": "activities/1209187393.gpx"
+    },
+    {
+        "distance": "1.77",
+        "name": "Afternoon Run",
+        "pace_sec": "423.16",
+        "int_time": "749",
+        "pace": "7:03",
+        "date": "2017-10-05 23:02:11",
+        "str_time": "12:29",
+        "gps": "activities/1219568024.gpx"
+    },
+    {
+        "distance": "2.93",
+        "name": "Morning Run",
+        "pace_sec": "431.06",
+        "int_time": "1263",
+        "pace": "7:11",
+        "date": "2017-10-07 16:05:52",
+        "str_time": "21:03",
+        "gps": "activities/1219568036.gpx"
+    },
+    {
+        "distance": "3.98",
+        "name": "Lunch Run",
+        "pace_sec": "880.9",
+        "int_time": "3506",
+        "pace": "14:40",
+        "date": "2017-09-30 18:59:00",
+        "str_time": "58:26",
+        "gps": "activities/1219568039.gpx"
+    },
+    {
+        "distance": "6.55",
+        "name": "Afternoon Run",
+        "pace_sec": "588.24",
+        "int_time": "3853",
+        "pace": "9:48",
+        "date": "2017-10-09 23:13:55",
+        "str_time": "1:4:13",
+        "gps": "activities/1225792975.gpx"
+    },
+    {
+        "distance": "6.09",
+        "name": "Afternoon Run",
+        "pace_sec": "823.65",
+        "int_time": "5016",
+        "pace": "13:43",
+        "date": "2017-10-11 23:11:41",
+        "str_time": "1:23:36",
+        "gps": "activities/1232542681.gpx"
+    },
+    {
+        "distance": "4.77",
+        "name": "Afternoon Run",
+        "pace_sec": "602.31",
+        "int_time": "2873",
+        "pace": "10:02",
+        "date": "2017-10-16 23:05:01",
+        "str_time": "47:53",
+        "gps": "activities/1248540650.gpx"
+    },
+    {
+        "distance": "3.27",
+        "name": "Afternoon Run",
+        "pace_sec": "362.39",
+        "int_time": "1185",
+        "pace": "6:02",
+        "date": "2017-10-20 23:14:53",
+        "str_time": "19:45",
+        "gps": "activities/1248540675.gpx"
+    },
+    {
+        "distance": "4.97",
+        "name": "Afternoon Run",
+        "pace_sec": "548.69",
+        "int_time": "2727",
+        "pace": "9:08",
+        "date": "2017-10-26 22:39:27",
+        "str_time": "45:27",
+        "gps": "activities/1248540683.gpx"
+    },
+    {
+        "distance": "5.69",
+        "name": "Afternoon Run",
+        "pace_sec": "9460.81",
+        "int_time": "53832",
+        "pace": "2.0:37:40",
+        "date": "2017-10-18 22:59:10",
+        "str_time": "14:57:12",
+        "gps": "activities/1248540688.gpx"
+    },
+    {
+        "distance": "4.44",
+        "name": "Afternoon Run",
+        "pace_sec": "487.61",
+        "int_time": "2165",
+        "pace": "8:07",
+        "date": "2017-10-30 23:06:38",
+        "str_time": "36:05",
+        "gps": "activities/1255041057.gpx"
+    },
+    {
+        "distance": "5.18",
+        "name": "Afternoon Run",
+        "pace_sec": "522.2",
+        "int_time": "2705",
+        "pace": "8:42",
+        "date": "2017-11-01 22:42:56",
+        "str_time": "45:05",
+        "gps": "activities/1264576255.gpx"
+    },
+    {
+        "distance": "4.08",
+        "name": "Afternoon Run",
+        "pace_sec": "450.49",
+        "int_time": "1838",
+        "pace": "7:30",
+        "date": "2017-11-07 00:20:49",
+        "str_time": "30:38",
+        "gps": "activities/1264576256.gpx"
+    },
+    {
+        "distance": "4.02",
+        "name": "Afternoon Run",
+        "pace_sec": "480.6",
+        "int_time": "1932",
+        "pace": "8:00",
+        "date": "2017-11-17 00:12:53",
+        "str_time": "32:12",
+        "gps": "activities/1293422845.gpx"
+    },
+    {
+        "distance": "6.01",
+        "name": "Morning Run",
+        "pace_sec": "578.37",
+        "int_time": "3476",
+        "pace": "9:38",
+        "date": "2017-11-23 17:53:05",
+        "str_time": "57:56",
+        "gps": "activities/1293422896.gpx"
+    },
+    {
+        "distance": "4.21",
+        "name": "Afternoon Run",
+        "pace_sec": "459.38",
+        "int_time": "1934",
+        "pace": "7:39",
+        "date": "2017-11-28 00:24:13",
+        "str_time": "32:14",
+        "gps": "activities/1293422913.gpx"
+    },
+    {
+        "distance": "6.28",
+        "name": "Morning Run",
+        "pace_sec": "571.97",
+        "int_time": "3592",
+        "pace": "9:31",
+        "date": "2017-11-25 16:20:34",
+        "str_time": "59:52",
+        "gps": "activities/1293422945.gpx"
+    },
+    {
+        "distance": "1.51",
+        "name": "Afternoon Run",
+        "pace_sec": "395.36",
+        "int_time": "597",
+        "pace": "6:35",
+        "date": "2017-11-30 01:02:32",
+        "str_time": "9:57",
+        "gps": "activities/1296143563.gpx"
+    },
+    {
+        "distance": "1.55",
+        "name": "Afternoon Run",
+        "pace_sec": "387.1",
+        "int_time": "600",
+        "pace": "6:27",
+        "date": "2017-11-30 00:49:11",
+        "str_time": "10:",
+        "gps": "activities/1296143565.gpx"
+    },
+    {
+        "distance": "3.03",
+        "name": "Morning Run",
+        "pace_sec": "498.35",
+        "int_time": "1510",
+        "pace": "8:18",
+        "date": "2017-12-12 18:32:52",
+        "str_time": "25:10",
+        "gps": "activities/1311793137.gpx"
+    },
+    {
+        "distance": "3.2",
+        "name": "Morning Run",
+        "pace_sec": "458.75",
+        "int_time": "1468",
+        "pace": "7:38",
+        "date": "2017-12-14 18:10:33",
+        "str_time": "24:28",
+        "gps": "activities/1313966047.gpx"
+    },
+    {
+        "distance": "2.92",
+        "name": "Lunch Run",
+        "pace_sec": "584.93",
+        "int_time": "1708",
+        "pace": "9:44",
+        "date": "2017-12-25 19:57:12",
+        "str_time": "28:28",
+        "gps": "activities/1328451898.gpx"
+    },
+    {
+        "distance": "2.79",
+        "name": "Afternoon Run",
+        "pace_sec": "459.5",
+        "int_time": "1282",
+        "pace": "7:39",
+        "date": "2017-12-26 23:10:14",
+        "str_time": "21:22",
+        "gps": "activities/1328481626.gpx"
+    },
+    {
+        "distance": "2.03",
+        "name": "Morning Run",
+        "pace_sec": "573.89",
+        "int_time": "1165",
+        "pace": "9:33",
+        "date": "2017-12-29 17:19:15",
+        "str_time": "19:25",
+        "gps": "activities/1335461223.gpx"
+    },
+    {
+        "distance": "4.05",
+        "name": "Afternoon Run",
+        "pace_sec": "522.22",
+        "int_time": "2115",
+        "pace": "8:42",
+        "date": "2018-01-04 00:12:26",
+        "str_time": "35:15",
+        "gps": "activities/1339792659.gpx"
+    },
+    {
+        "distance": "4.51",
+        "name": "Afternoon Run",
+        "pace_sec": "521.06",
+        "int_time": "2350",
+        "pace": "8:41",
+        "date": "2018-01-05 00:14:14",
+        "str_time": "39:10",
+        "gps": "activities/1341345919.gpx"
+    },
+    {
+        "distance": "6.04",
+        "name": "Afternoon Run",
+        "pace_sec": "453.31",
+        "int_time": "2738",
+        "pace": "7:33",
+        "date": "2018-01-08 23:51:54",
+        "str_time": "45:38",
+        "gps": "activities/1347747121.gpx"
+    },
+    {
+        "distance": "2.28",
+        "name": "Afternoon Run",
+        "pace_sec": "348.68",
+        "int_time": "795",
+        "pace": "5:48",
+        "date": "2018-01-11 00:19:10",
+        "str_time": "13:15",
+        "gps": "activities/1351047054.gpx"
+    },
+    {
+        "distance": "2.3",
+        "name": "Afternoon Run",
+        "pace_sec": "392.61",
+        "int_time": "903",
+        "pace": "6:32",
+        "date": "2018-01-11 00:34:33",
+        "str_time": "15:03",
+        "gps": "activities/1351047083.gpx"
+    },
+    {
+        "distance": "6.12",
+        "name": "Afternoon Run",
+        "pace_sec": "473.04",
+        "int_time": "2895",
+        "pace": "7:53",
+        "date": "2018-01-15 22:27:55",
+        "str_time": "48:15",
+        "gps": "activities/1359229449.gpx"
+    },
+    {
+        "distance": "4.61",
+        "name": "Afternoon Run",
+        "pace_sec": "478.52",
+        "int_time": "2206",
+        "pace": "7:58",
+        "date": "2018-01-17 00:07:03",
+        "str_time": "36:46",
+        "gps": "activities/1360972328.gpx"
+    },
+    {
+        "distance": "5.22",
+        "name": "Afternoon Run",
+        "pace_sec": "474.9",
+        "int_time": "2479",
+        "pace": "7:54",
+        "date": "2018-02-06 00:02:40",
+        "str_time": "41:19",
+        "gps": "activities/1393637205.gpx"
+    },
+    {
+        "distance": "4.96",
+        "name": "Afternoon Run",
+        "pace_sec": "615.52",
+        "int_time": "3053",
+        "pace": "10:15",
+        "date": "2018-02-07 00:23:31",
+        "str_time": "50:53",
+        "gps": "activities/1395419606.gpx"
+    },
+    {
+        "distance": "8.27",
+        "name": "Afternoon Run",
+        "pace_sec": "550.79",
+        "int_time": "4555",
+        "pace": "9:10",
+        "date": "2018-02-14 00:01:07",
+        "str_time": "1:15:55",
+        "gps": "activities/1410525464.gpx"
+    },
+    {
+        "distance": "2.86",
+        "name": "Afternoon Run",
+        "pace_sec": "559.09",
+        "int_time": "1599",
+        "pace": "9:19",
+        "date": "2018-02-16 01:28:22",
+        "str_time": "26:39",
+        "gps": "activities/1410525472.gpx"
+    },
+    {
+        "distance": "2.05",
+        "name": "Afternoon Run",
+        "pace_sec": "496.59",
+        "int_time": "1018",
+        "pace": "8:16",
+        "date": "2018-03-02 00:33:06",
+        "str_time": "16:58",
+        "gps": "activities/1432050761.gpx"
+    },
+    {
+        "distance": "4.43",
+        "name": "Afternoon Run",
+        "pace_sec": "488.49",
+        "int_time": "2164",
+        "pace": "8:08",
+        "date": "2018-03-06 23:39:28",
+        "str_time": "36:04",
+        "gps": "activities/1440100840.gpx"
+    },
+    {
+        "distance": "3.07",
+        "name": "Afternoon Run",
+        "pace_sec": "458.63",
+        "int_time": "1408",
+        "pace": "7:38",
+        "date": "2018-04-10 22:11:33",
+        "str_time": "23:28",
+        "gps": "activities/1501297975.gpx"
+    },
+    {
+        "distance": "5.04",
+        "name": "Afternoon Run",
+        "pace_sec": "473.21",
+        "int_time": "2385",
+        "pace": "7:53",
+        "date": "2018-04-17 23:11:33",
+        "str_time": "39:45",
+        "gps": "activities/1515040782.gpx"
+    },
+    {
+        "distance": "4.1",
+        "name": "Afternoon Run",
+        "pace_sec": "426.83",
+        "int_time": "1750",
+        "pace": "7:06",
+        "date": "2018-05-02 23:49:34",
+        "str_time": "29:10",
+        "gps": "activities/1551797000.gpx"
+    },
+    {
+        "distance": "29.69",
+        "name": "Morning Run",
+        "pace_sec": "1143.42",
+        "int_time": "33948",
+        "pace": "19:03",
+        "date": "2018-05-17 23:48:35",
+        "str_time": "9:25:48",
+        "gps": "activities/1704792787.fit.gz"
+    },
+    {
+        "distance": "22.93",
+        "name": "Morning Run",
+        "pace_sec": "1016.83",
+        "int_time": "23316",
+        "pace": "16:56",
+        "date": "2018-05-18 23:15:22",
+        "str_time": "6:28:36",
+        "gps": "activities/1704794670.fit.gz"
+    },
+    {
+        "distance": "21.0",
+        "name": "Morning Run",
+        "pace_sec": "1195.81",
+        "int_time": "25112",
+        "pace": "19:55",
+        "date": "2018-05-20 23:26:38",
+        "str_time": "6:58:32",
+        "gps": "activities/1704796553.fit.gz"
+    },
+    {
+        "distance": "1.03",
+        "name": "Afternoon Run",
+        "pace_sec": "439.81",
+        "int_time": "453",
+        "pace": "7:19",
+        "date": "2018-03-23 20:04:09",
+        "str_time": "7:33",
+        "gps": "activities/1705427289.fit.gz"
+    },
+    {
+        "distance": "1.42",
+        "name": "Afternoon Run",
+        "pace_sec": "1282.39",
+        "int_time": "1821",
+        "pace": "21:22",
+        "date": "2018-04-27 19:04:03",
+        "str_time": "30:21",
+        "gps": "activities/1705427290.fit.gz"
+    },
+    {
+        "distance": "1.95",
+        "name": "Afternoon Run",
+        "pace_sec": "444.1",
+        "int_time": "866",
+        "pace": "7:24",
+        "date": "2018-03-23 20:33:54",
+        "str_time": "14:26",
+        "gps": "activities/1705427288.fit.gz"
+    },
+    {
+        "distance": "0.0",
+        "name": "Afternoon Run",
+        "pace_sec": "0",
+        "int_time": "2509",
+        "pace": "0:00",
+        "date": "2018-02-21 22:06:11",
+        "str_time": "41:49",
+        "gps": "activities/1705427287.fit.gz"
+    },
+    {
+        "distance": "0.0",
+        "name": "Lunch Run",
+        "pace_sec": "0",
+        "int_time": "392",
+        "pace": "0:00",
+        "date": "2018-03-11 19:41:11",
+        "str_time": "6:32",
+        "gps": "activities/1705427302.fit.gz"
+    },
+    {
+        "distance": "0.0",
+        "name": "Afternoon Run",
+        "pace_sec": "0",
+        "int_time": "1022",
+        "pace": "0:00",
+        "date": "2018-04-15 20:33:50",
+        "str_time": "17:02",
+        "gps": "activities/1705427314.fit.gz"
+    },
+    {
+        "distance": "0.7",
+        "name": "Afternoon Run",
+        "pace_sec": "695.71",
+        "int_time": "487",
+        "pace": "11:35",
+        "date": "2018-03-20 23:19:23",
+        "str_time": "8:07",
+        "gps": "activities/1705427305.fit.gz"
+    },
+    {
+        "distance": "1.13",
+        "name": "Afternoon Run",
+        "pace_sec": "671.68",
+        "int_time": "759",
+        "pace": "11:11",
+        "date": "2018-03-20 23:05:13",
+        "str_time": "12:39",
+        "gps": "activities/1705427294.fit.gz"
+    },
+    {
+        "distance": "1.64",
+        "name": "Morning Run",
+        "pace_sec": "653.66",
+        "int_time": "1072",
+        "pace": "10:53",
+        "date": "2018-04-29 13:49:45",
+        "str_time": "17:52",
+        "gps": "activities/1705427291.fit.gz"
+    },
+    {
+        "distance": "6.04",
+        "name": "Afternoon Run",
+        "pace_sec": "470.2",
+        "int_time": "2840",
+        "pace": "7:50",
+        "date": "2018-05-10 00:18:37",
+        "str_time": "47:20",
+        "gps": "activities/1705427299.fit.gz"
+    },
+    {
+        "distance": "6.79",
+        "name": "Morning Run",
+        "pace_sec": "526.22",
+        "int_time": "3573",
+        "pace": "8:46",
+        "date": "2018-03-24 17:15:58",
+        "str_time": "59:33",
+        "gps": "activities/1705427307.fit.gz"
+    },
+    {
+        "distance": "3.97",
+        "name": "Lunch Run",
+        "pace_sec": "750.13",
+        "int_time": "2978",
+        "pace": "12:30",
+        "date": "2018-04-28 15:36:01",
+        "str_time": "49:38",
+        "gps": "activities/1705427313.fit.gz"
+    },
+    {
+        "distance": "0.0",
+        "name": "Afternoon Run",
+        "pace_sec": "0",
+        "int_time": "649",
+        "pace": "0:00",
+        "date": "2018-04-15 20:19:54",
+        "str_time": "10:49",
+        "gps": "activities/1705427308.fit.gz"
+    },
+    {
+        "distance": "0.0",
+        "name": "Afternoon Run",
+        "pace_sec": "0",
+        "int_time": "384",
+        "pace": "0:00",
+        "date": "2018-03-11 20:39:38",
+        "str_time": "6:24",
+        "gps": "activities/1705427310.fit.gz"
+    },
+    {
+        "distance": "2.57",
+        "name": "Lunch Run",
+        "pace_sec": "1129.57",
+        "int_time": "2903",
+        "pace": "18:49",
+        "date": "2018-04-22 18:04:46",
+        "str_time": "48:23",
+        "gps": "activities/1705427318.fit.gz"
+    },
+    {
+        "distance": "0.0",
+        "name": "Afternoon Run",
+        "pace_sec": "0",
+        "int_time": "657",
+        "pace": "0:00",
+        "date": "2018-03-11 20:21:20",
+        "str_time": "10:57",
+        "gps": "activities/1705427301.fit.gz"
+    },
+    {
+        "distance": "1.9",
+        "name": "Afternoon Run",
+        "pace_sec": "754.21",
+        "int_time": "1433",
+        "pace": "12:34",
+        "date": "2018-04-21 21:55:04",
+        "str_time": "23:53",
+        "gps": "activities/1705427315.fit.gz"
+    },
+    {
+        "distance": "1.63",
+        "name": "Afternoon Run",
+        "pace_sec": "781.6",
+        "int_time": "1274",
+        "pace": "13:01",
+        "date": "2018-04-21 22:25:12",
+        "str_time": "21:14",
+        "gps": "activities/1705427293.fit.gz"
+    },
+    {
+        "distance": "2.83",
+        "name": "Afternoon Run",
+        "pace_sec": "953.0",
+        "int_time": "2697",
+        "pace": "15:53",
+        "date": "2018-04-21 23:11:03",
+        "str_time": "44:57",
+        "gps": "activities/1705427317.fit.gz"
+    },
+    {
+        "distance": "4.33",
+        "name": "Morning Run",
+        "pace_sec": "840.42",
+        "int_time": "3639",
+        "pace": "14:00",
+        "date": "2018-04-29 14:38:02",
+        "str_time": "1:39",
+        "gps": "activities/1705427319.fit.gz"
+    },
+    {
+        "distance": "1.98",
+        "name": "Afternoon Run",
+        "pace_sec": "867.68",
+        "int_time": "1718",
+        "pace": "14:27",
+        "date": "2018-04-21 21:21:07",
+        "str_time": "28:38",
+        "gps": "activities/1705427306.fit.gz"
+    },
+    {
+        "distance": "0.0",
+        "name": "Lunch Run",
+        "pace_sec": "0",
+        "int_time": "749",
+        "pace": "0:00",
+        "date": "2018-03-18 19:36:24",
+        "str_time": "12:29",
+        "gps": "activities/1705427312.fit.gz"
+    },
+    {
+        "distance": "0.0",
+        "name": "Afternoon Run",
+        "pace_sec": "0",
+        "int_time": "1536",
+        "pace": "0:00",
+        "date": "2018-03-18 20:03:15",
+        "str_time": "25:36",
+        "gps": "activities/1705427311.fit.gz"
+    },
+    {
+        "distance": "0.0",
+        "name": "Lunch Run",
+        "pace_sec": "0",
+        "int_time": "494",
+        "pace": "0:00",
+        "date": "2018-03-18 19:53:26",
+        "str_time": "8:14",
+        "gps": "activities/1705427303.fit.gz"
+    },
+    {
+        "distance": "1.2",
+        "name": "Morning Run",
+        "pace_sec": "873.33",
+        "int_time": "1048",
+        "pace": "14:33",
+        "date": "2018-04-28 14:46:02",
+        "str_time": "17:28",
+        "gps": "activities/1705427309.fit.gz"
+    },
+    {
+        "distance": "1.1",
+        "name": "Morning Run",
+        "pace_sec": "707.27",
+        "int_time": "778",
+        "pace": "11:47",
+        "date": "2018-03-24 16:37:29",
+        "str_time": "12:58",
+        "gps": "activities/1705427304.fit.gz"
+    },
+    {
+        "distance": "0.0",
+        "name": "Afternoon Run",
+        "pace_sec": "0",
+        "int_time": "331",
+        "pace": "0:00",
+        "date": "2018-03-11 20:33:39",
+        "str_time": "5:31",
+        "gps": "activities/1705427300.fit.gz"
+    },
+    {
+        "distance": "2.49",
+        "name": "Afternoon Run",
+        "pace_sec": "393.17",
+        "int_time": "979",
+        "pace": "6:33",
+        "date": "2018-02-21 21:38:50",
+        "str_time": "16:19",
+        "gps": "activities/1705427298.fit.gz"
+    },
+    {
+        "distance": "19.19",
+        "name": "Morning Run",
+        "pace_sec": "972.38",
+        "int_time": "18660",
+        "pace": "16:12",
+        "date": "2018-02-24 18:05:29",
+        "str_time": "5:11:",
+        "gps": "activities/1705427320.fit.gz"
+    },
+    {
+        "distance": "24.22",
+        "name": "Morning Run",
+        "pace_sec": "1181.63",
+        "int_time": "28619",
+        "pace": "19:41",
+        "date": "2018-05-21 23:50:49",
+        "str_time": "7:56:59",
+        "gps": "activities/1707901478.fit.gz"
+    },
+    {
+        "distance": "8.55",
+        "name": "Morning Run",
+        "pace_sec": "1204.09",
+        "int_time": "10295",
+        "pace": "20:04",
+        "date": "2018-05-22 23:08:38",
+        "str_time": "2:51:35",
+        "gps": "activities/1709070532.fit.gz"
+    },
+    {
+        "distance": "8.38",
+        "name": "Morning Run",
+        "pace_sec": "1176.37",
+        "int_time": "9858",
+        "pace": "19:36",
+        "date": "2018-05-23 23:30:11",
+        "str_time": "2:44:18",
+        "gps": "activities/1711385808.fit.gz"
+    },
+    {
+        "distance": "13.36",
+        "name": "Lunch Run",
+        "pace_sec": "1330.99",
+        "int_time": "17782",
+        "pace": "22:10",
+        "date": "2018-05-24 02:46:59",
+        "str_time": "4:56:22",
+        "gps": "activities/1711672162.fit.gz"
+    },
+    {
+        "distance": "1.99",
+        "name": "Afternoon Run",
+        "pace_sec": "1155.78",
+        "int_time": "2300",
+        "pace": "19:15",
+        "date": "2018-05-25 05:50:25",
+        "str_time": "38:20",
+        "gps": "activities/1713701316.fit.gz"
+    },
+    {
+        "distance": "19.07",
+        "name": "Morning Run",
+        "pace_sec": "1706.45",
+        "int_time": "32542",
+        "pace": "28:26",
+        "date": "2018-05-25 22:08:57",
+        "str_time": "9:2:22",
+        "gps": "activities/1715625897.fit.gz"
+    },
+    {
+        "distance": "11.15",
+        "name": "Morning Run",
+        "pace_sec": "1685.83",
+        "int_time": "18797",
+        "pace": "28:05",
+        "date": "2018-05-27 00:01:09",
+        "str_time": "5:13:17",
+        "gps": "activities/1718270282.fit.gz"
+    },
+    {
+        "distance": "4.58",
+        "name": "Morning Run",
+        "pace_sec": "751.09",
+        "int_time": "3440",
+        "pace": "12:31",
+        "date": "2018-05-29 23:41:30",
+        "str_time": "57:20",
+        "gps": "activities/1724796423.fit.gz"
+    },
+    {
+        "distance": "3.0",
+        "name": "Lunch Run",
+        "pace_sec": "437.0",
+        "int_time": "1311",
+        "pace": "7:17",
+        "date": "2018-05-05 18:42:34",
+        "str_time": "21:51",
+        "gps": "activities/1613164364.gpx"
+    },
+    {
+        "distance": "3.05",
+        "name": "Afternoon Run",
+        "pace_sec": "506.23",
+        "int_time": "1544",
+        "pace": "8:26",
+        "date": "2018-06-02 22:53:03",
+        "str_time": "25:44",
+        "gps": "activities/1613164367.gpx"
+    },
+    {
+        "distance": "5.03",
+        "name": "Morning Run",
+        "pace_sec": "435.79",
+        "int_time": "2192",
+        "pace": "7:15",
+        "date": "2018-06-03 15:51:52",
+        "str_time": "36:32",
+        "gps": "activities/1617662865.gpx"
+    },
+    {
+        "distance": "4.02",
+        "name": "Afternoon Run",
+        "pace_sec": "474.13",
+        "int_time": "1906",
+        "pace": "7:54",
+        "date": "2018-06-05 23:21:06",
+        "str_time": "31:46",
+        "gps": "activities/1620085923.gpx"
+    },
+    {
+        "distance": "3.01",
+        "name": "Afternoon Run",
+        "pace_sec": "462.13",
+        "int_time": "1391",
+        "pace": "7:42",
+        "date": "2018-06-07 23:34:52",
+        "str_time": "23:11",
+        "gps": "activities/1624178567.gpx"
+    },
+    {
+        "distance": "5.89",
+        "name": "Hill Repeats",
+        "pace_sec": "523.77",
+        "int_time": "3085",
+        "pace": "8:43",
+        "date": "2018-06-09 14:36:28",
+        "str_time": "51:25",
+        "gps": "activities/1627499346.gpx"
+    },
+    {
+        "distance": "6.06",
+        "name": "Activity",
+        "pace_sec": "491.58",
+        "int_time": "2979",
+        "pace": "8:11",
+        "date": "2018-06-12 17:09:31",
+        "str_time": "49:39",
+        "gps": "activities/1756156134.fit.gz"
+    },
+    {
+        "distance": "1.75",
+        "name": "Morning Run",
+        "pace_sec": "689.14",
+        "int_time": "1206",
+        "pace": "11:29",
+        "date": "2018-06-15 04:50:59",
+        "str_time": "20:06",
+        "gps": "activities/1763421257.fit.gz"
+    },
+    {
+        "distance": "4.49",
+        "name": "Lunch Run",
+        "pace_sec": "1157.02",
+        "int_time": "5195",
+        "pace": "19:17",
+        "date": "2018-06-15 08:16:51",
+        "str_time": "1:26:35",
+        "gps": "activities/1763421574.fit.gz"
+    },
+    {
+        "distance": "1.19",
+        "name": "Warm Up",
+        "pace_sec": "646.22",
+        "int_time": "769",
+        "pace": "10:46",
+        "date": "2018-06-16 20:48:39",
+        "str_time": "12:49",
+        "gps": "activities/1766390147.fit.gz"
+    },
+    {
+        "distance": "8.41",
+        "name": "Night Run",
+        "pace_sec": "832.82",
+        "int_time": "7004",
+        "pace": "13:52",
+        "date": "2018-06-16 21:51:08",
+        "str_time": "1:56:44",
+        "gps": "activities/1766392668.fit.gz"
+    },
+    {
+        "distance": "2.3",
+        "name": "Morning Run",
+        "pace_sec": "650.43",
+        "int_time": "1496",
+        "pace": "10:50",
+        "date": "2018-06-19 06:16:19",
+        "str_time": "24:56",
+        "gps": "activities/1770338131.fit.gz"
+    },
+    {
+        "distance": "5.62",
+        "name": "Afternoon Run",
+        "pace_sec": "753.56",
+        "int_time": "4235",
+        "pace": "12:33",
+        "date": "2018-06-19 13:00:54",
+        "str_time": "1:10:35",
+        "gps": "activities/1771529757.fit.gz"
+    },
+    {
+        "distance": "1.75",
+        "name": "Morning Run",
+        "pace_sec": "553.71",
+        "int_time": "969",
+        "pace": "9:13",
+        "date": "2018-06-20 06:04:39",
+        "str_time": "16:09",
+        "gps": "activities/1772657495.fit.gz"
+    },
+    {
+        "distance": "5.76",
+        "name": "Morning Run",
+        "pace_sec": "978.13",
+        "int_time": "5634",
+        "pace": "16:18",
+        "date": "2018-06-20 07:25:28",
+        "str_time": "1:33:54",
+        "gps": "activities/1772859965.fit.gz"
+    },
+    {
+        "distance": "1.08",
+        "name": "Lunch Run",
+        "pace_sec": "622.22",
+        "int_time": "672",
+        "pace": "10:22",
+        "date": "2018-06-20 09:02:13",
+        "str_time": "11:12",
+        "gps": "activities/1772860099.fit.gz"
+    },
+    {
+        "distance": "7.79",
+        "name": "Afternoon Run",
+        "pace_sec": "673.43",
+        "int_time": "5246",
+        "pace": "11:13",
+        "date": "2018-06-20 13:47:02",
+        "str_time": "1:27:26",
+        "gps": "activities/1773719493.fit.gz"
+    },
+    {
+        "distance": "2.56",
+        "name": "Morning Run",
+        "pace_sec": "514.06",
+        "int_time": "1316",
+        "pace": "8:34",
+        "date": "2018-06-22 08:02:13",
+        "str_time": "21:56",
+        "gps": "activities/1777764020.fit.gz"
+    },
+    {
+        "distance": "1.95",
+        "name": "Afternoon Run",
+        "pace_sec": "814.36",
+        "int_time": "1588",
+        "pace": "13:34",
+        "date": "2018-06-22 12:50:29",
+        "str_time": "26:28",
+        "gps": "activities/1777764404.fit.gz"
+    },
+    {
+        "distance": "1.94",
+        "name": "Morning Run",
+        "pace_sec": "617.53",
+        "int_time": "1198",
+        "pace": "10:17",
+        "date": "2018-06-23 05:42:53",
+        "str_time": "19:58",
+        "gps": "activities/1778856462.fit.gz"
+    },
+    {
+        "distance": "4.33",
+        "name": "Morning Run",
+        "pace_sec": "897.69",
+        "int_time": "3887",
+        "pace": "14:57",
+        "date": "2018-06-23 07:34:11",
+        "str_time": "1:4:47",
+        "gps": "activities/1779391641.fit.gz"
+    },
+    {
+        "distance": "3.23",
+        "name": "Afternoon Run",
+        "pace_sec": "1008.67",
+        "int_time": "3258",
+        "pace": "16:48",
+        "date": "2018-06-23 14:01:02",
+        "str_time": "54:18",
+        "gps": "activities/1780279959.fit.gz"
+    },
+    {
+        "distance": "1.95",
+        "name": "Morning Run",
+        "pace_sec": "618.97",
+        "int_time": "1207",
+        "pace": "10:18",
+        "date": "2018-06-24 05:46:44",
+        "str_time": "20:07",
+        "gps": "activities/1782764444.fit.gz"
+    },
+    {
+        "distance": "4.43",
+        "name": "Morning Run",
+        "pace_sec": "714.9",
+        "int_time": "3167",
+        "pace": "11:54",
+        "date": "2018-06-24 07:51:40",
+        "str_time": "52:47",
+        "gps": "activities/1782818165.fit.gz"
+    },
+    {
+        "distance": "6.05",
+        "name": "Morning Run",
+        "pace_sec": "452.23",
+        "int_time": "2736",
+        "pace": "7:32",
+        "date": "2018-06-25 05:32:24",
+        "str_time": "45:36",
+        "gps": "activities/1783829387.fit.gz"
+    },
+    {
+        "distance": "4.79",
+        "name": "Lunch Run",
+        "pace_sec": "504.38",
+        "int_time": "2416",
+        "pace": "8:24",
+        "date": "2018-06-27 18:47:47",
+        "str_time": "40:16",
+        "gps": "activities/1666177900.gpx"
+    },
+    {
+        "distance": "4.18",
+        "name": "Morning Run",
+        "pace_sec": "322.73",
+        "int_time": "1349",
+        "pace": "5:22",
+        "date": "2018-06-28 16:31:22",
+        "str_time": "22:29",
+        "gps": "activities/1668066009.gpx"
+    },
+    {
+        "distance": "6.03",
+        "name": "Morning Run",
+        "pace_sec": "425.21",
+        "int_time": "2564",
+        "pace": "7:05",
+        "date": "2018-06-29 15:40:16",
+        "str_time": "42:44",
+        "gps": "activities/1670684576.gpx"
+    },
+    {
+        "distance": "3.08",
+        "name": "Lunch Run",
+        "pace_sec": "493.83",
+        "int_time": "1521",
+        "pace": "8:13",
+        "date": "2018-07-02 18:27:31",
+        "str_time": "25:21",
+        "gps": "activities/1800393786.fit.gz"
+    },
+    {
+        "distance": "1.03",
+        "name": "Lunch Run",
+        "pace_sec": "372.82",
+        "int_time": "384",
+        "pace": "6:12",
+        "date": "2018-07-03 19:28:28",
+        "str_time": "6:24",
+        "gps": "activities/1802746480.fit.gz"
+    },
+    {
+        "distance": "1.04",
+        "name": "Lunch Run",
+        "pace_sec": "356.73",
+        "int_time": "371",
+        "pace": "5:56",
+        "date": "2018-07-03 19:41:23",
+        "str_time": "6:11",
+        "gps": "activities/1803375816.fit.gz"
+    },
+    {
+        "distance": "6.06",
+        "name": "Lunch Run",
+        "pace_sec": "486.63",
+        "int_time": "2949",
+        "pace": "8:06",
+        "date": "2018-07-04 19:12:30",
+        "str_time": "49:09",
+        "gps": "activities/1805194445.fit.gz"
+    },
+    {
+        "distance": "1.86",
+        "name": "Lunch Run",
+        "pace_sec": "502.69",
+        "int_time": "935",
+        "pace": "8:22",
+        "date": "2018-07-07 18:35:11",
+        "str_time": "15:35",
+        "gps": "activities/1811967065.fit.gz"
+    },
+    {
+        "distance": "2.98",
+        "name": "Afternoon Run",
+        "pace_sec": "918.79",
+        "int_time": "2738",
+        "pace": "15:18",
+        "date": "2018-07-07 21:53:09",
+        "str_time": "45:38",
+        "gps": "activities/1811967700.fit.gz"
+    },
+    {
+        "distance": "4.76",
+        "name": "Morning Run",
+        "pace_sec": "1124.16",
+        "int_time": "5351",
+        "pace": "18:44",
+        "date": "2018-07-08 17:47:08",
+        "str_time": "1:29:11",
+        "gps": "activities/1814516821.fit.gz"
+    },
+    {
+        "distance": "4.16",
+        "name": "Morning Run",
+        "pace_sec": "484.13",
+        "int_time": "2014",
+        "pace": "8:04",
+        "date": "2018-07-11 15:17:26",
+        "str_time": "33:34",
+        "gps": "activities/1820190446.fit.gz"
+    },
+    {
+        "distance": "3.01",
+        "name": "Afternoon Run",
+        "pace_sec": "446.84",
+        "int_time": "1345",
+        "pace": "7:26",
+        "date": "2018-07-10 22:33:04",
+        "str_time": "22:25",
+        "gps": "activities/1695714210.gpx"
+    },
+    {
+        "distance": "4.32",
+        "name": "Afternoon Run",
+        "pace_sec": "536.57",
+        "int_time": "2318",
+        "pace": "8:56",
+        "date": "2018-07-12 22:12:31",
+        "str_time": "38:38",
+        "gps": "activities/1823271461.fit.gz"
+    },
+    {
+        "distance": "9.3",
+        "name": "Lunch Run",
+        "pace_sec": "2262.26",
+        "int_time": "21039",
+        "pace": "37:42",
+        "date": "2018-07-22 19:41:20",
+        "str_time": "5:50:39",
+        "gps": "activities/1847659618.fit.gz"
+    },
+    {
+        "distance": "4.28",
+        "name": "Lunch Run",
+        "pace_sec": "1261.45",
+        "int_time": "5399",
+        "pace": "21:01",
+        "date": "2018-07-17 20:44:52",
+        "str_time": "1:29:59",
+        "gps": "activities/1723338763.gpx"
+    },
+    {
+        "distance": "3.06",
+        "name": "Morning Run",
+        "pace_sec": "432.68",
+        "int_time": "1324",
+        "pace": "7:12",
+        "date": "2018-07-25 15:53:39",
+        "str_time": "22:04",
+        "gps": "activities/1729633150.gpx"
+    },
+    {
+        "distance": "4.37",
+        "name": "Afternoon Run",
+        "pace_sec": "540.27",
+        "int_time": "2361",
+        "pace": "9:00",
+        "date": "2018-07-23 22:11:13",
+        "str_time": "39:21",
+        "gps": "activities/1729633223.gpx"
+    },
+    {
+        "distance": "6.2",
+        "name": "Morning Run",
+        "pace_sec": "438.87",
+        "int_time": "2721",
+        "pace": "7:18",
+        "date": "2018-07-29 14:50:10",
+        "str_time": "45:21",
+        "gps": "activities/1735935733.gpx"
+    },
+    {
+        "distance": "4.42",
+        "name": "Afternoon Run",
+        "pace_sec": "490.72",
+        "int_time": "2169",
+        "pace": "8:10",
+        "date": "2018-07-31 22:38:13",
+        "str_time": "36:09",
+        "gps": "activities/1741229249.gpx"
+    },
+    {
+        "distance": "5.01",
+        "name": "Afternoon Run",
+        "pace_sec": "456.09",
+        "int_time": "2285",
+        "pace": "7:36",
+        "date": "2018-08-01 23:16:26",
+        "str_time": "38:05",
+        "gps": "activities/1743691597.gpx"
+    },
+    {
+        "distance": "4.3",
+        "name": "Afternoon Run",
+        "pace_sec": "503.72",
+        "int_time": "2166",
+        "pace": "8:23",
+        "date": "2018-08-02 22:07:33",
+        "str_time": "36:06",
+        "gps": "activities/1745856550.gpx"
+    },
+    {
+        "distance": "1.26",
+        "name": "Afternoon Run",
+        "pace_sec": "403.97",
+        "int_time": "509",
+        "pace": "6:43",
+        "date": "2018-08-04 21:34:13",
+        "str_time": "8:29",
+        "gps": "activities/1877450618.fit.gz"
+    },
+    {
+        "distance": "1.01",
+        "name": "Afternoon Run",
+        "pace_sec": "395.05",
+        "int_time": "399",
+        "pace": "6:35",
+        "date": "2018-08-04 21:59:35",
+        "str_time": "6:39",
+        "gps": "activities/1877480246.fit.gz"
+    },
+    {
+        "distance": "5.08",
+        "name": "Morning Run",
+        "pace_sec": "439.37",
+        "int_time": "2232",
+        "pace": "7:19",
+        "date": "2018-08-08 14:03:28",
+        "str_time": "37:12",
+        "gps": "activities/1758649536.gpx"
+    },
+    {
+        "distance": "4.01",
+        "name": "Morning Run",
+        "pace_sec": "492.52",
+        "int_time": "1975",
+        "pace": "8:12",
+        "date": "2018-08-09 14:10:09",
+        "str_time": "32:55",
+        "gps": "activities/1890486925.fit.gz"
+    },
+    {
+        "distance": "4.56",
+        "name": "Morning Run",
+        "pace_sec": "1952.85",
+        "int_time": "8905",
+        "pace": "32:32",
+        "date": "2018-08-11 16:52:54",
+        "str_time": "2:28:25",
+        "gps": "activities/1895925552.fit.gz"
+    },
+    {
+        "distance": "7.57",
+        "name": "Morning Hike",
+        "pace_sec": "2288.11",
+        "int_time": "17321",
+        "pace": "38:08",
+        "date": "2018-08-11 16:53:58",
+        "str_time": "4:48:41",
+        "gps": "activities/1765901609.gpx"
+    },
+    {
+        "distance": "8.07",
+        "name": "Morning Run",
+        "pace_sec": "417.6",
+        "int_time": "3370",
+        "pace": "6:57",
+        "date": "2018-08-12 17:07:00",
+        "str_time": "56:10",
+        "gps": "activities/1767891192.gpx"
+    },
+    {
+        "distance": "4.32",
+        "name": "Afternoon Run",
+        "pace_sec": "541.2",
+        "int_time": "2338",
+        "pace": "9:01",
+        "date": "2018-08-14 22:11:39",
+        "str_time": "38:58",
+        "gps": "activities/1772673018.gpx"
+    },
+    {
+        "distance": "1.41",
+        "name": "Lunch Run",
+        "pace_sec": "933.33",
+        "int_time": "1316",
+        "pace": "15:33",
+        "date": "2018-08-17 18:42:46",
+        "str_time": "21:56",
+        "gps": "activities/1912184169.fit.gz"
+    },
+    {
+        "distance": "6.9",
+        "name": "Lunch Run",
+        "pace_sec": "794.35",
+        "int_time": "5481",
+        "pace": "13:14",
+        "date": "2018-08-18 18:01:59",
+        "str_time": "1:31:21",
+        "gps": "activities/1912184871.fit.gz"
+    },
+    {
+        "distance": "6.19",
+        "name": "Lunch Run",
+        "pace_sec": "1098.38",
+        "int_time": "6799",
+        "pace": "18:18",
+        "date": "2018-08-19 19:07:02",
+        "str_time": "1:53:19",
+        "gps": "activities/1914948309.fit.gz"
+    },
+    {
+        "distance": "4.47",
+        "name": "Lunch Run",
+        "pace_sec": "770.92",
+        "int_time": "3446",
+        "pace": "12:50",
+        "date": "2018-08-20 19:00:39",
+        "str_time": "57:26",
+        "gps": "activities/1917043642.fit.gz"
+    },
+    {
+        "distance": "2.12",
+        "name": "Morning Run",
+        "pace_sec": "494.81",
+        "int_time": "1049",
+        "pace": "8:14",
+        "date": "2018-08-21 17:33:03",
+        "str_time": "17:29",
+        "gps": "activities/1919662971.fit.gz"
+    },
+    {
+        "distance": "2.23",
+        "name": "Afternoon Run",
+        "pace_sec": "613.0",
+        "int_time": "1367",
+        "pace": "10:13",
+        "date": "2018-08-21 21:00:06",
+        "str_time": "22:47",
+        "gps": "activities/1919663211.fit.gz"
+    },
+    {
+        "distance": "5.46",
+        "name": "Afternoon Run",
+        "pace_sec": "461.54",
+        "int_time": "2520",
+        "pace": "7:41",
+        "date": "2018-08-24 22:44:28",
+        "str_time": "42:",
+        "gps": "activities/1926041709.fit.gz"
+    },
+    {
+        "distance": "4.24",
+        "name": "Morning Run",
+        "pace_sec": "10.61",
+        "int_time": "45",
+        "pace": "10",
+        "date": "2018-08-25 16:30:04",
+        "str_time": "45",
+        "gps": "activities/1800806664.gpx"
+    },
+    {
+        "distance": "5.01",
+        "name": "Afternoon Run",
+        "pace_sec": "436.13",
+        "int_time": "2185",
+        "pace": "7:16",
+        "date": "2018-08-27 21:34:09",
+        "str_time": "36:25",
+        "gps": "activities/1801945693.gpx"
+    },
+    {
+        "distance": "6.66",
+        "name": "Morning Run",
+        "pace_sec": "487.39",
+        "int_time": "3246",
+        "pace": "8:07",
+        "date": "2018-08-31 14:13:24",
+        "str_time": "54:06",
+        "gps": "activities/1812380060.gpx"
+    },
+    {
+        "distance": "3.5",
+        "name": "Morning Run",
+        "pace_sec": "552.57",
+        "int_time": "1934",
+        "pace": "9:12",
+        "date": "2018-09-01 17:25:08",
+        "str_time": "32:14",
+        "gps": "activities/1943884520.fit.gz"
+    },
+    {
+        "distance": "4.22",
+        "name": "Afternoon Run",
+        "pace_sec": "641.0",
+        "int_time": "2705",
+        "pace": "10:40",
+        "date": "2018-09-02 21:34:21",
+        "str_time": "45:05",
+        "gps": "activities/1947068379.fit.gz"
+    },
+    {
+        "distance": "4.37",
+        "name": "Morning Run",
+        "pace_sec": "436.38",
+        "int_time": "1907",
+        "pace": "7:16",
+        "date": "2018-09-04 15:01:52",
+        "str_time": "31:47",
+        "gps": "activities/1819181801.gpx"
+    },
+    {
+        "distance": "6.64",
+        "name": "Morning Run",
+        "pace_sec": "437.05",
+        "int_time": "2902",
+        "pace": "7:17",
+        "date": "2018-09-05 15:14:21",
+        "str_time": "48:22",
+        "gps": "activities/1821936559.gpx"
+    },
+    {
+        "distance": "1.3",
+        "name": "Morning Run",
+        "pace_sec": "420.0",
+        "int_time": "546",
+        "pace": "7:",
+        "date": "2018-09-08 16:09:57",
+        "str_time": "9:06",
+        "gps": "activities/1963314888.fit.gz"
+    },
+    {
+        "distance": "2.08",
+        "name": "Lunch Run",
+        "pace_sec": "519.71",
+        "int_time": "1081",
+        "pace": "8:39",
+        "date": "2018-09-08 18:45:00",
+        "str_time": "18:01",
+        "gps": "activities/1963315002.fit.gz"
+    },
+    {
+        "distance": "2.31",
+        "name": "Afternoon Run",
+        "pace_sec": "457.14",
+        "int_time": "1056",
+        "pace": "7:37",
+        "date": "2018-09-08 21:45:00",
+        "str_time": "17:36",
+        "gps": "activities/1963315091.fit.gz"
+    },
+    {
+        "distance": "2.13",
+        "name": "Afternoon Run",
+        "pace_sec": "497.65",
+        "int_time": "1060",
+        "pace": "8:17",
+        "date": "2018-09-08 23:38:59",
+        "str_time": "17:40",
+        "gps": "activities/1963315205.fit.gz"
+    },
+    {
+        "distance": "1.68",
+        "name": "Morning Run",
+        "pace_sec": "495.24",
+        "int_time": "832",
+        "pace": "8:15",
+        "date": "2018-09-09 16:56:58",
+        "str_time": "13:52",
+        "gps": "activities/1963315322.fit.gz"
+    },
+    {
+        "distance": "1.97",
+        "name": "Lunch Run",
+        "pace_sec": "558.88",
+        "int_time": "1101",
+        "pace": "9:18",
+        "date": "2018-09-09 18:56:58",
+        "str_time": "18:21",
+        "gps": "activities/1963315421.fit.gz"
+    },
+    {
+        "distance": "5.03",
+        "name": "Morning Run",
+        "pace_sec": "454.67",
+        "int_time": "2287",
+        "pace": "7:34",
+        "date": "2018-09-11 15:08:42",
+        "str_time": "38:07",
+        "gps": "activities/1835497818.gpx"
+    },
+    {
+        "distance": "6.21",
+        "name": "Ok Bryce this is our 10k pace for the race",
+        "pace_sec": "433.66",
+        "int_time": "2693",
+        "pace": "7:13",
+        "date": "2018-09-13 16:36:09",
+        "str_time": "44:53",
+        "gps": "activities/1839248312.gpx"
+    },
+    {
+        "distance": "2.93",
+        "name": "Morning Run",
+        "pace_sec": "517.41",
+        "int_time": "1516",
+        "pace": "8:37",
+        "date": "2018-09-17 17:25:17",
+        "str_time": "25:16",
+        "gps": "activities/1848197335.gpx"
+    },
+    {
+        "distance": "4.44",
+        "name": "Morning Run",
+        "pace_sec": "500.68",
+        "int_time": "2223",
+        "pace": "8:20",
+        "date": "2018-09-18 17:09:18",
+        "str_time": "37:03",
+        "gps": "activities/1983065047.fit.gz"
+    },
+    {
+        "distance": "3.3",
+        "name": "Morning Run",
+        "pace_sec": "388.18",
+        "int_time": "1281",
+        "pace": "6:28",
+        "date": "2018-09-15 16:02:26",
+        "str_time": "21:21",
+        "gps": "activities/1983064810.fit.gz"
+    },
+    {
+        "distance": "4.12",
+        "name": "Morning Run",
+        "pace_sec": "536.89",
+        "int_time": "2212",
+        "pace": "8:56",
+        "date": "2018-09-22 16:07:27",
+        "str_time": "36:52",
+        "gps": "activities/1858766514.gpx"
+    },
+    {
+        "distance": "4.01",
+        "name": "Morning Run",
+        "pace_sec": "503.99",
+        "int_time": "2021",
+        "pace": "8:23",
+        "date": "2018-09-23 15:40:22",
+        "str_time": "33:41",
+        "gps": "activities/1861104158.gpx"
+    },
+    {
+        "distance": "4.0",
+        "name": "Morning Run",
+        "pace_sec": "485.25",
+        "int_time": "1941",
+        "pace": "8:05",
+        "date": "2018-09-26 15:41:43",
+        "str_time": "32:21",
+        "gps": "activities/1867623747.gpx"
+    },
+    {
+        "distance": "6.13",
+        "name": "Afternoon Run",
+        "pace_sec": "624.96",
+        "int_time": "3831",
+        "pace": "10:24",
+        "date": "2018-09-27 00:06:02",
+        "str_time": "1:3:51",
+        "gps": "activities/1868087904.gpx"
+    },
+    {
+        "distance": "4.8",
+        "name": "Afternoon Run",
+        "pace_sec": "581.67",
+        "int_time": "2792",
+        "pace": "9:41",
+        "date": "2018-09-28 00:09:10",
+        "str_time": "46:32",
+        "gps": "activities/1870168391.gpx"
+    },
+    {
+        "distance": "4.0",
+        "name": "Morning Run",
+        "pace_sec": "442.0",
+        "int_time": "1768",
+        "pace": "7:22",
+        "date": "2018-09-30 16:48:21",
+        "str_time": "29:28",
+        "gps": "activities/1876181602.gpx"
+    },
+    {
+        "distance": "4.56",
+        "name": "Afternoon Run",
+        "pace_sec": "602.63",
+        "int_time": "2748",
+        "pace": "10:02",
+        "date": "2018-10-02 00:05:16",
+        "str_time": "45:48",
+        "gps": "activities/1878673756.gpx"
+    },
+    {
+        "distance": "4.87",
+        "name": "Afternoon Run",
+        "pace_sec": "416.43",
+        "int_time": "2028",
+        "pace": "6:56",
+        "date": "2018-10-04 00:07:10",
+        "str_time": "33:48",
+        "gps": "activities/1882807394.gpx"
+    },
+    {
+        "distance": "4.6",
+        "name": "Lunch Run",
+        "pace_sec": "1353.91",
+        "int_time": "6228",
+        "pace": "22:33",
+        "date": "2018-10-06 18:13:41",
+        "str_time": "1:43:48",
+        "gps": "activities/2022477993.fit.gz"
+    },
+    {
+        "distance": "2.32",
+        "name": "Afternoon Run",
+        "pace_sec": "1133.19",
+        "int_time": "2629",
+        "pace": "18:53",
+        "date": "2018-10-06 21:25:27",
+        "str_time": "43:49",
+        "gps": "activities/2022478457.fit.gz"
+    },
+    {
+        "distance": "2.02",
+        "name": "Afternoon Run",
+        "pace_sec": "1111.39",
+        "int_time": "2245",
+        "pace": "18:31",
+        "date": "2018-10-06 23:17:34",
+        "str_time": "37:25",
+        "gps": "activities/2022580539.fit.gz"
+    },
+    {
+        "distance": "3.38",
+        "name": "Morning Run",
+        "pace_sec": "935.21",
+        "int_time": "3161",
+        "pace": "15:35",
+        "date": "2018-10-07 16:35:50",
+        "str_time": "52:41",
+        "gps": "activities/2024544720.fit.gz"
+    },
+    {
+        "distance": "1.75",
+        "name": "Morning Run",
+        "pace_sec": "1065.71",
+        "int_time": "1865",
+        "pace": "17:45",
+        "date": "2018-10-07 17:38:38",
+        "str_time": "31:05",
+        "gps": "activities/2024966297.fit.gz"
+    },
+    {
+        "distance": "3.33",
+        "name": "Lunch Run",
+        "pace_sec": "863.36",
+        "int_time": "2875",
+        "pace": "14:23",
+        "date": "2018-10-06 18:19:37",
+        "str_time": "47:55",
+        "gps": "activities/1891973697.gpx"
+    },
+    {
+        "distance": "7.19",
+        "name": "Green Lake",
+        "pace_sec": "485.67",
+        "int_time": "3492",
+        "pace": "8:05",
+        "date": "2018-10-11 00:06:16",
+        "str_time": "58:12",
+        "gps": "activities/1897293178.gpx"
+    },
+    {
+        "distance": "4.4",
+        "name": "Arboretum",
+        "pace_sec": "450.45",
+        "int_time": "1982",
+        "pace": "7:30",
+        "date": "2018-10-12 00:07:27",
+        "str_time": "33:02",
+        "gps": "activities/1899147810.gpx"
+    },
+    {
+        "distance": "6.22",
+        "name": "Dawg Dash 10k course",
+        "pace_sec": "480.23",
+        "int_time": "2987",
+        "pace": "8:00",
+        "date": "2018-10-13 00:09:04",
+        "str_time": "49:47",
+        "gps": "activities/1900952277.gpx"
+    },
+    {
+        "distance": "6.15",
+        "name": "Dawg Dash 10k",
+        "pace_sec": "404.07",
+        "int_time": "2485",
+        "pace": "6:44",
+        "date": "2018-10-14 16:02:32",
+        "str_time": "41:25",
+        "gps": "activities/2039588909.fit.gz"
+    },
+    {
+        "distance": "5.04",
+        "name": "Morning Run",
+        "pace_sec": "460.12",
+        "int_time": "2319",
+        "pace": "7:40",
+        "date": "2018-10-16 15:52:43",
+        "str_time": "38:39",
+        "gps": "activities/1909370475.gpx"
+    },
+    {
+        "distance": "4.97",
+        "name": "Afternoon Run",
+        "pace_sec": "509.26",
+        "int_time": "2531",
+        "pace": "8:29",
+        "date": "2018-10-18 00:07:58",
+        "str_time": "42:11",
+        "gps": "activities/1911585347.gpx"
+    },
+    {
+        "distance": "2.2",
+        "name": "Morning Run",
+        "pace_sec": "452.27",
+        "int_time": "995",
+        "pace": "7:32",
+        "date": "2018-10-20 13:55:01",
+        "str_time": "16:35",
+        "gps": "activities/2054764629.fit.gz"
+    },
+    {
+        "distance": "1.37",
+        "name": "Lunch Run",
+        "pace_sec": "877.37",
+        "int_time": "1202",
+        "pace": "14:37",
+        "date": "2018-10-20 16:55:00",
+        "str_time": "20:02",
+        "gps": "activities/2054764791.fit.gz"
+    },
+    {
+        "distance": "6.95",
+        "name": "Morning Run",
+        "pace_sec": "773.24",
+        "int_time": "5374",
+        "pace": "12:53",
+        "date": "2018-10-21 13:43:00",
+        "str_time": "1:29:34",
+        "gps": "activities/2054765572.fit.gz"
+    },
+    {
+        "distance": "6.93",
+        "name": "Afternoon Run",
+        "pace_sec": "509.52",
+        "int_time": "3531",
+        "pace": "8:29",
+        "date": "2018-10-23 23:25:26",
+        "str_time": "58:51",
+        "gps": "activities/1923804453.gpx"
+    },
+    {
+        "distance": "4.04",
+        "name": "Afternoon Run",
+        "pace_sec": "422.03",
+        "int_time": "1705",
+        "pace": "7:02",
+        "date": "2018-10-25 22:57:09",
+        "str_time": "28:25",
+        "gps": "activities/1932828434.gpx"
+    },
+    {
+        "distance": "5.07",
+        "name": "Afternoon Run",
+        "pace_sec": "508.09",
+        "int_time": "2576",
+        "pace": "8:28",
+        "date": "2018-10-26 23:23:53",
+        "str_time": "42:56",
+        "gps": "activities/1932828443.gpx"
+    },
+    {
+        "distance": "4.61",
+        "name": "Morning Run",
+        "pace_sec": "494.36",
+        "int_time": "2279",
+        "pace": "8:14",
+        "date": "2018-10-28 16:12:21",
+        "str_time": "37:59",
+        "gps": "activities/1932830912.gpx"
+    },
+    {
+        "distance": "5.73",
+        "name": "Afternoon Run",
+        "pace_sec": "537.52",
+        "int_time": "3080",
+        "pace": "8:57",
+        "date": "2018-10-30 00:09:26",
+        "str_time": "51:20",
+        "gps": "activities/1935022289.gpx"
+    },
+    {
+        "distance": "1.06",
+        "name": "Afternoon Run",
+        "pace_sec": "1389.62",
+        "int_time": "1473",
+        "pace": "23:09",
+        "date": "2018-10-31 00:23:06",
+        "str_time": "24:33",
+        "gps": "activities/1937574046.gpx"
+    },
+    {
+        "distance": "1.24",
+        "name": "Afternoon Run",
+        "pace_sec": "612.1",
+        "int_time": "759",
+        "pace": "10:12",
+        "date": "2018-10-31 00:09:24",
+        "str_time": "12:39",
+        "gps": "activities/1937574047.gpx"
+    },
+    {
+        "distance": "4.4",
+        "name": "Morning Run",
+        "pace_sec": "475.23",
+        "int_time": "2091",
+        "pace": "7:55",
+        "date": "2018-11-04 17:19:47",
+        "str_time": "34:51",
+        "gps": "activities/1946292834.gpx"
+    },
+    {
+        "distance": "6.7",
+        "name": "Afternoon Run",
+        "pace_sec": "497.01",
+        "int_time": "3330",
+        "pace": "8:17",
+        "date": "2018-11-06 00:11:52",
+        "str_time": "55:30",
+        "gps": "activities/1948498301.gpx"
+    },
+    {
+        "distance": "4.79",
+        "name": "Afternoon Run",
+        "pace_sec": "513.78",
+        "int_time": "2461",
+        "pace": "8:33",
+        "date": "2018-11-06 23:59:30",
+        "str_time": "41:01",
+        "gps": "activities/1950585244.gpx"
+    },
+    {
+        "distance": "8.23",
+        "name": "Afternoon Run",
+        "pace_sec": "502.07",
+        "int_time": "4132",
+        "pace": "8:22",
+        "date": "2018-11-07 23:45:16",
+        "str_time": "1:8:52",
+        "gps": "activities/1952263294.gpx"
+    },
+    {
+        "distance": "2.92",
+        "name": "Afternoon Run",
+        "pace_sec": "421.58",
+        "int_time": "1231",
+        "pace": "7:01",
+        "date": "2018-11-10 00:34:22",
+        "str_time": "20:31",
+        "gps": "activities/1955608896.gpx"
+    },
+    {
+        "distance": "3.29",
+        "name": "Afternoon Run",
+        "pace_sec": "503.04",
+        "int_time": "1655",
+        "pace": "8:23",
+        "date": "2018-11-15 00:21:50",
+        "str_time": "27:35",
+        "gps": "activities/1965373417.gpx"
+    },
+    {
+        "distance": "4.32",
+        "name": "Afternoon Run",
+        "pace_sec": "438.89",
+        "int_time": "1896",
+        "pace": "7:18",
+        "date": "2018-11-20 00:06:57",
+        "str_time": "31:36",
+        "gps": "activities/1974580120.gpx"
+    },
+    {
+        "distance": "5.42",
+        "name": "Morning Run",
+        "pace_sec": "523.62",
+        "int_time": "2838",
+        "pace": "8:43",
+        "date": "2018-11-17 18:51:03",
+        "str_time": "47:18",
+        "gps": "activities/2111634339.fit.gz"
+    },
+    {
+        "distance": "3.16",
+        "name": "Morning Run",
+        "pace_sec": "388.61",
+        "int_time": "1228",
+        "pace": "6:28",
+        "date": "2018-11-22 17:17:16",
+        "str_time": "20:28",
+        "gps": "activities/1979187734.gpx"
+    },
+    {
+        "distance": "3.98",
+        "name": "Afternoon Run",
+        "pace_sec": "1441.96",
+        "int_time": "5739",
+        "pace": "24:01",
+        "date": "2018-11-24 21:22:53",
+        "str_time": "1:35:39",
+        "gps": "activities/2120176768.fit.gz"
+    },
+    {
+        "distance": "4.91",
+        "name": "Afternoon Run",
+        "pace_sec": "480.24",
+        "int_time": "2358",
+        "pace": "8:00",
+        "date": "2018-11-29 00:23:42",
+        "str_time": "39:18",
+        "gps": "activities/1990340649.gpx"
+    },
+    {
+        "distance": "4.12",
+        "name": "Afternoon Run",
+        "pace_sec": "509.71",
+        "int_time": "2100",
+        "pace": "8:29",
+        "date": "2018-11-30 22:49:00",
+        "str_time": "35:",
+        "gps": "activities/1993490382.gpx"
+    },
+    {
+        "distance": "4.42",
+        "name": "Morning Run",
+        "pace_sec": "595.93",
+        "int_time": "2634",
+        "pace": "9:55",
+        "date": "2018-12-01 18:21:50",
+        "str_time": "43:54",
+        "gps": "activities/2132745414.fit.gz"
+    },
+    {
+        "distance": "3.96",
+        "name": "Morning Run",
+        "pace_sec": "442.68",
+        "int_time": "1753",
+        "pace": "7:22",
+        "date": "2018-12-02 18:30:52",
+        "str_time": "29:13",
+        "gps": "activities/1996939819.gpx"
+    },
+    {
+        "distance": "6.38",
+        "name": "Afternoon Run",
+        "pace_sec": "455.33",
+        "int_time": "2905",
+        "pace": "7:35",
+        "date": "2018-12-03 23:55:01",
+        "str_time": "48:25",
+        "gps": "activities/1998909895.gpx"
+    },
+    {
+        "distance": "3.06",
+        "name": "Afternoon Run",
+        "pace_sec": "414.71",
+        "int_time": "1269",
+        "pace": "6:54",
+        "date": "2018-12-06 00:39:04",
+        "str_time": "21:09",
+        "gps": "activities/2005353994.gpx"
+    },
+    {
+        "distance": "5.08",
+        "name": "Afternoon Run",
+        "pace_sec": "435.83",
+        "int_time": "2214",
+        "pace": "7:15",
+        "date": "2018-12-07 23:49:52",
+        "str_time": "36:54",
+        "gps": "activities/2005556170.gpx"
+    },
+    {
+        "distance": "3.05",
+        "name": "Lunch Run",
+        "pace_sec": "473.11",
+        "int_time": "1443",
+        "pace": "7:53",
+        "date": "2018-12-08 20:05:47",
+        "str_time": "24:03",
+        "gps": "activities/2007201600.gpx"
+    },
+    {
+        "distance": "2.74",
+        "name": "Afternoon Run",
+        "pace_sec": "473.36",
+        "int_time": "1297",
+        "pace": "7:53",
+        "date": "2018-12-09 21:54:12",
+        "str_time": "21:37",
+        "gps": "activities/2147570802.fit.gz"
+    },
+    {
+        "distance": "1.01",
+        "name": "Lunch Run",
+        "pace_sec": "343.56",
+        "int_time": "347",
+        "pace": "5:43",
+        "date": "2018-12-14 19:05:12",
+        "str_time": "5:47",
+        "gps": "activities/2155961951.fit.gz"
+    },
+    {
+        "distance": "1.01",
+        "name": "Morning Run",
+        "pace_sec": "527.72",
+        "int_time": "533",
+        "pace": "8:47",
+        "date": "2018-12-15 17:30:59",
+        "str_time": "8:53",
+        "gps": "activities/2157340324.fit.gz"
+    },
+    {
+        "distance": "5.07",
+        "name": "Morning Run",
+        "pace_sec": "520.91",
+        "int_time": "2641",
+        "pace": "8:40",
+        "date": "2018-12-15 18:13:01",
+        "str_time": "44:01",
+        "gps": "activities/2157545687.fit.gz"
+    },
+    {
+        "distance": "3.36",
+        "name": "Lunch Run",
+        "pace_sec": "679.46",
+        "int_time": "2283",
+        "pace": "11:19",
+        "date": "2018-12-15 19:15:15",
+        "str_time": "38:03",
+        "gps": "activities/2157545921.fit.gz"
+    },
+    {
+        "distance": "5.02",
+        "name": "Morning Run",
+        "pace_sec": "455.78",
+        "int_time": "2288",
+        "pace": "7:35",
+        "date": "2018-12-18 17:52:43",
+        "str_time": "38:08",
+        "gps": "activities/2023707193.gpx"
+    },
+    {
+        "distance": "6.09",
+        "name": "Morning Run",
+        "pace_sec": "439.08",
+        "int_time": "2674",
+        "pace": "7:19",
+        "date": "2018-12-22 16:30:54",
+        "str_time": "44:34",
+        "gps": "activities/2030020253.gpx"
+    },
+    {
+        "distance": "4.02",
+        "name": "Lunch Run",
+        "pace_sec": "395.52",
+        "int_time": "1590",
+        "pace": "6:35",
+        "date": "2018-12-24 19:09:52",
+        "str_time": "26:30",
+        "gps": "activities/2033813634.gpx"
+    },
+    {
+        "distance": "5.03",
+        "name": "Afternoon Run",
+        "pace_sec": "467.0",
+        "int_time": "2349",
+        "pace": "7:46",
+        "date": "2018-12-26 23:26:35",
+        "str_time": "39:09",
+        "gps": "activities/2037370927.gpx"
+    },
+    {
+        "distance": "7.75",
+        "name": "Morning Run",
+        "pace_sec": "911.35",
+        "int_time": "7063",
+        "pace": "15:11",
+        "date": "2018-12-29 18:20:01",
+        "str_time": "1:57:43",
+        "gps": "activities/2182893637.fit.gz"
+    },
+    {
+        "distance": "6.38",
+        "name": "Morning Run",
+        "pace_sec": "476.02",
+        "int_time": "3037",
+        "pace": "7:56",
+        "date": "2018-12-31 17:11:18",
+        "str_time": "50:37",
+        "gps": "activities/2047048303.gpx"
+    },
+    {
+        "distance": "8.06",
+        "name": "Morning Run",
+        "pace_sec": "434.99",
+        "int_time": "3506",
+        "pace": "7:14",
+        "date": "2019-01-01 17:01:04",
+        "str_time": "58:26",
+        "gps": "activities/2048934266.gpx"
+    },
+    {
+        "distance": "3.88",
+        "name": "Morning Run",
+        "pace_sec": "468.3",
+        "int_time": "1817",
+        "pace": "7:48",
+        "date": "2019-01-06 18:23:46",
+        "str_time": "30:17",
+        "gps": "activities/2060588582.gpx"
+    },
+    {
+        "distance": "2.93",
+        "name": "Lunch Run",
+        "pace_sec": "433.11",
+        "int_time": "1269",
+        "pace": "7:13",
+        "date": "2019-01-08 19:09:46",
+        "str_time": "21:09",
+        "gps": "activities/2067679064.gpx"
+    },
+    {
+        "distance": "6.62",
+        "name": "Morning Run",
+        "pace_sec": "518.73",
+        "int_time": "3434",
+        "pace": "8:38",
+        "date": "2019-01-10 17:42:30",
+        "str_time": "57:14",
+        "gps": "activities/2211974311.fit.gz"
+    },
+    {
+        "distance": "0.9",
+        "name": "Morning Run",
+        "pace_sec": "633.33",
+        "int_time": "570",
+        "pace": "10:33",
+        "date": "2019-01-12 18:03:26",
+        "str_time": "9:30",
+        "gps": "activities/2215459800.fit.gz"
+    },
+    {
+        "distance": "4.57",
+        "name": "Morning Run",
+        "pace_sec": "506.13",
+        "int_time": "2313",
+        "pace": "8:26",
+        "date": "2019-01-12 18:51:06",
+        "str_time": "38:33",
+        "gps": "activities/2215611657.fit.gz"
+    },
+    {
+        "distance": "2.78",
+        "name": "Lunch Run",
+        "pace_sec": "840.29",
+        "int_time": "2336",
+        "pace": "14:00",
+        "date": "2019-01-12 19:45:03",
+        "str_time": "38:56",
+        "gps": "activities/2215702802.fit.gz"
+    },
+    {
+        "distance": "8.29",
+        "name": "Morning Run",
+        "pace_sec": "502.77",
+        "int_time": "4168",
+        "pace": "8:22",
+        "date": "2019-01-15 18:48:34",
+        "str_time": "1:9:28",
+        "gps": "activities/2081415088.gpx"
+    },
+    {
+        "distance": "5.0",
+        "name": "Morning Run",
+        "pace_sec": "476.6",
+        "int_time": "2383",
+        "pace": "7:56",
+        "date": "2019-01-17 18:11:05",
+        "str_time": "39:43",
+        "gps": "activities/2227765842.fit.gz"
+    },
+    {
+        "distance": "4.47",
+        "name": "Morning Run",
+        "pace_sec": "525.95",
+        "int_time": "2351",
+        "pace": "8:45",
+        "date": "2019-01-21 17:15:57",
+        "str_time": "39:11",
+        "gps": "activities/2236944566.fit.gz"
+    },
+    {
+        "distance": "4.07",
+        "name": "Morning Run",
+        "pace_sec": "453.07",
+        "int_time": "1844",
+        "pace": "7:33",
+        "date": "2019-01-20 16:24:22",
+        "str_time": "30:44",
+        "gps": "activities/2094193272.gpx"
+    },
+    {
+        "distance": "1.17",
+        "name": "Morning Run",
+        "pace_sec": "779.49",
+        "int_time": "912",
+        "pace": "12:59",
+        "date": "2019-01-26 17:26:30",
+        "str_time": "15:12",
+        "gps": "activities/2248187219.fit.gz"
+    },
+    {
+        "distance": "5.19",
+        "name": "Morning Run",
+        "pace_sec": "724.47",
+        "int_time": "3760",
+        "pace": "12:04",
+        "date": "2019-01-26 18:03:20",
+        "str_time": "1:2:40",
+        "gps": "activities/2248187746.fit.gz"
+    },
+    {
+        "distance": "6.01",
+        "name": "Afternoon Run",
+        "pace_sec": "443.59",
+        "int_time": "2666",
+        "pace": "7:23",
+        "date": "2019-01-27 22:32:52",
+        "str_time": "44:26",
+        "gps": "activities/2108076089.gpx"
+    },
+    {
+        "distance": "6.63",
+        "name": "Morning Run",
+        "pace_sec": "477.83",
+        "int_time": "3168",
+        "pace": "7:57",
+        "date": "2019-01-29 18:21:18",
+        "str_time": "52:48",
+        "gps": "activities/2111709152.gpx"
+    },
+    {
+        "distance": "3.08",
+        "name": "Afternoon Run",
+        "pace_sec": "534.09",
+        "int_time": "1645",
+        "pace": "8:54",
+        "date": "2019-01-31 23:38:08",
+        "str_time": "27:25",
+        "gps": "activities/2259773366.fit.gz"
+    },
+    {
+        "distance": "2.36",
+        "name": "Afternoon Run",
+        "pace_sec": "519.07",
+        "int_time": "1225",
+        "pace": "8:39",
+        "date": "2019-02-01 00:13:41",
+        "str_time": "20:25",
+        "gps": "activities/2259941952.fit.gz"
+    },
+    {
+        "distance": "5.06",
+        "name": "Morning Run",
+        "pace_sec": "476.09",
+        "int_time": "2409",
+        "pace": "7:56",
+        "date": "2019-02-02 17:39:46",
+        "str_time": "40:09",
+        "gps": "activities/2119742845.gpx"
+    },
+    {
+        "distance": "4.53",
+        "name": "Morning Run",
+        "pace_sec": "851.66",
+        "int_time": "3858",
+        "pace": "14:11",
+        "date": "2019-02-07 17:17:28",
+        "str_time": "1:4:18",
+        "gps": "activities/2274563287.fit.gz"
+    },
+    {
+        "distance": "6.43",
+        "name": "Morning Run",
+        "pace_sec": "502.64",
+        "int_time": "3232",
+        "pace": "8:22",
+        "date": "2019-02-13 17:45:41",
+        "str_time": "53:52",
+        "gps": "activities/2289051945.fit.gz"
+    },
+    {
+        "distance": "0.93",
+        "name": "Morning Run",
+        "pace_sec": "553.76",
+        "int_time": "515",
+        "pace": "9:13",
+        "date": "2019-02-16 17:31:54",
+        "str_time": "8:35",
+        "gps": "activities/2295740456.fit.gz"
+    },
+    {
+        "distance": "1.18",
+        "name": "Morning Run",
+        "pace_sec": "485.59",
+        "int_time": "573",
+        "pace": "8:05",
+        "date": "2019-02-16 17:48:30",
+        "str_time": "9:33",
+        "gps": "activities/2295740704.fit.gz"
+    },
+    {
+        "distance": "1.38",
+        "name": "Morning Run",
+        "pace_sec": "736.23",
+        "int_time": "1016",
+        "pace": "12:16",
+        "date": "2019-02-16 18:36:18",
+        "str_time": "16:56",
+        "gps": "activities/2295741054.fit.gz"
+    },
+    {
+        "distance": "1.92",
+        "name": "Lunch Run",
+        "pace_sec": "529.69",
+        "int_time": "1017",
+        "pace": "8:49",
+        "date": "2019-02-16 20:19:57",
+        "str_time": "16:57",
+        "gps": "activities/2295741406.fit.gz"
+    },
+    {
+        "distance": "1.13",
+        "name": "Lunch Run",
+        "pace_sec": "784.96",
+        "int_time": "887",
+        "pace": "13:04",
+        "date": "2019-02-16 20:52:44",
+        "str_time": "14:47",
+        "gps": "activities/2295741754.fit.gz"
+    },
+    {
+        "distance": "1.83",
+        "name": "Afternoon Run",
+        "pace_sec": "1267.76",
+        "int_time": "2320",
+        "pace": "21:07",
+        "date": "2019-02-16 23:34:57",
+        "str_time": "38:40",
+        "gps": "activities/2296144092.fit.gz"
+    },
+    {
+        "distance": "2.18",
+        "name": "Morning Run",
+        "pace_sec": "475.23",
+        "int_time": "1036",
+        "pace": "7:55",
+        "date": "2019-02-17 17:41:48",
+        "str_time": "17:16",
+        "gps": "activities/2299446844.fit.gz"
+    },
+    {
+        "distance": "2.18",
+        "name": "Lunch Run",
+        "pace_sec": "475.69",
+        "int_time": "1037",
+        "pace": "7:55",
+        "date": "2019-02-17 19:32:47",
+        "str_time": "17:17",
+        "gps": "activities/2299447262.fit.gz"
+    },
+    {
+        "distance": "2.19",
+        "name": "Afternoon Run",
+        "pace_sec": "452.05",
+        "int_time": "990",
+        "pace": "7:32",
+        "date": "2019-02-17 21:05:04",
+        "str_time": "16:30",
+        "gps": "activities/2299447720.fit.gz"
+    },
+    {
+        "distance": "5.77",
+        "name": "Morning Run",
+        "pace_sec": "493.41",
+        "int_time": "2847",
+        "pace": "8:13",
+        "date": "2019-02-19 17:59:05",
+        "str_time": "47:27",
+        "gps": "activities/2303970105.fit.gz"
+    },
+    {
+        "distance": "8.11",
+        "name": "Morning Run",
+        "pace_sec": "476.94",
+        "int_time": "3868",
+        "pace": "7:56",
+        "date": "2019-02-21 17:24:08",
+        "str_time": "1:4:28",
+        "gps": "activities/2308412302.fit.gz"
+    },
+    {
+        "distance": "4.67",
+        "name": "Lunch Run",
+        "pace_sec": "777.52",
+        "int_time": "3631",
+        "pace": "12:57",
+        "date": "2019-02-23 19:11:06",
+        "str_time": "1:31",
+        "gps": "activities/2313471229.fit.gz"
+    },
+    {
+        "distance": "2.89",
+        "name": "Morning Run",
+        "pace_sec": "506.23",
+        "int_time": "1463",
+        "pace": "8:26",
+        "date": "2019-02-24 18:07:11",
+        "str_time": "24:23",
+        "gps": "activities/2316291699.fit.gz"
+    },
+    {
+        "distance": "1.7",
+        "name": "Lunch Run",
+        "pace_sec": "517.65",
+        "int_time": "880",
+        "pace": "8:37",
+        "date": "2019-02-24 19:39:45",
+        "str_time": "14:40",
+        "gps": "activities/2316487058.fit.gz"
+    },
+    {
+        "distance": "5.95",
+        "name": "Afternoon Run",
+        "pace_sec": "622.69",
+        "int_time": "3705",
+        "pace": "10:22",
+        "date": "2019-02-26 00:55:55",
+        "str_time": "1:1:45",
+        "gps": "activities/2319132863.fit.gz"
+    },
+    {
+        "distance": "5.29",
+        "name": "Afternoon Run",
+        "pace_sec": "555.01",
+        "int_time": "2936",
+        "pace": "9:15",
+        "date": "2019-02-28 01:07:49",
+        "str_time": "48:56",
+        "gps": "activities/2324207791.fit.gz"
+    },
+    {
+        "distance": "6.55",
+        "name": "Morning Run",
+        "pace_sec": "462.44",
+        "int_time": "3029",
+        "pace": "7:42",
+        "date": "2019-03-01 18:37:50",
+        "str_time": "50:29",
+        "gps": "activities/2327834334.fit.gz"
+    },
+    {
+        "distance": "4.87",
+        "name": "Afternoon Run",
+        "pace_sec": "476.59",
+        "int_time": "2321",
+        "pace": "7:56",
+        "date": "2019-03-04 01:47:56",
+        "str_time": "38:41",
+        "gps": "activities/2189851404.gpx"
+    },
+    {
+        "distance": "2.26",
+        "name": "Morning Run",
+        "pace_sec": "486.73",
+        "int_time": "1100",
+        "pace": "8:06",
+        "date": "2019-03-05 18:52:54",
+        "str_time": "18:20",
+        "gps": "activities/2337316750.fit.gz"
+    },
+    {
+        "distance": "1.41",
+        "name": "Lunch Run",
+        "pace_sec": "645.39",
+        "int_time": "910",
+        "pace": "10:45",
+        "date": "2019-03-05 19:21:29",
+        "str_time": "15:10",
+        "gps": "activities/2337372546.fit.gz"
+    },
+    {
+        "distance": "1.55",
+        "name": "Morning Run",
+        "pace_sec": "621.29",
+        "int_time": "963",
+        "pace": "10:21",
+        "date": "2019-03-05 18:22:05",
+        "str_time": "16:03",
+        "gps": "activities/2337566335.fit.gz"
+    }
+]

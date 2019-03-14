@@ -34,6 +34,14 @@ h5 {
     color: #8E8D84;
 }
 
+a:hover {
+    text-decoration: underline #E98074;
+}
+
+.padBot {
+    padding-bottom: 5%;
+}
+
 #header {
     padding-bottom: 5%;
 }
@@ -61,4 +69,8 @@ h5 {
 
 #projects {
     padding-bottom: 30%;
+}
+
+#line1 {
+    padding-bottom: 5%;
 }

@@ -12,8 +12,9 @@
         "transform": [
           {
             "type": "window",
-            "sort": { "field": "distance", "order": "ascending"},
+            "sort": { "field": "date", "order": "ascending"},
             "ops": ["sum"],
+            "fields": ["distance"],
             "as": ["sum"]
           }
         ]

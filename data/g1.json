@@ -51,7 +51,7 @@
           "enter": {
             "x": {"scale": "xscale", "field": "date"},
             "width": {"scale": "xscale", "band": 0.5},
-            "y": {"scale": "yscale", "field": "distance"},
+            "y": {"scale": "yscale", "field": "sum"},
             "y2": {"scale": "yscale", "value": 0}
           },
           "update": {

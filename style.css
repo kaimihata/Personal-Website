@@ -62,6 +62,12 @@ a:hover {
     padding-bottom: 5px;
 }
 
+#bar2 {
+    margin-right: 45%;
+    border-bottom: 1px solid #8E8D84;
+    padding-bottom: 5px;
+}
+
 #summary {
     padding-top: 100pt;
     padding-bottom: 30%;

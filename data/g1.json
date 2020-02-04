@@ -4,7 +4,7 @@
     "height": 200,
     "padding": 5,
     "autosize": "fit",
-  
+
     "data": [
       {
         "name": "table",
@@ -12,18 +12,15 @@
         "transform": [
           {
             "type": "window",
-            "sort": { "field": "date", "order": "ascending"},
-            "ops": ["sum"],
-            "fields": ["distance"],
-            "as": ["sum"]
+            "sort": { "field": "date", "order": "ascending"}
           }
         ]
       }
     ],
-  
+
     "scales": [
       {
-        "name": "xscale",
+        "name": "x",
         "type": "band",
         "domain": {"data": "table", "field": "date"},
         "range": "width",
@@ -31,35 +28,29 @@
         "round": true
       },
       {
-        "name": "yscale",
-        "domain": {"data": "table", "field": "sum"},
+        "name": "y",
+        "domain": {"data": "table", "field": "distance"},
         "nice": true,
         "range": "height"
       }
     ],
-  
+
     "axes": [
-      { "orient": "bottom", "scale": "xscale" },
-      { "orient": "left", "scale": "yscale" }
+      {"orient": "bottom", "scale": "x"},
+      {"orient": "left", "scale": "y", "tickCount": 2}
     ],
-  
+    
     "marks": [
       {
-        "type": "rect",
-        "from": {"data":"table"},
+        "type": "line",
+        "from": {"data": "table"},
         "encode": {
           "enter": {
-            "x": {"scale": "xscale", "field": "date"},
-            "width": {"scale": "xscale", "band": 0.5},
-            "y": {"scale": "yscale", "field": "sum"},
-            "y2": {"scale": "yscale", "value": 0}
-          },
-          "update": {
-            "fill": {"value": "steelblue"}
-          },
-          "hover": {
-            "fill": {"value": "red"}
-          }
+            "x": {"scale": "x", "field": "date"},
+            "y": {"scale": "y", "field": "distance"},
+            "stroke": {"field": "red"},
+            "strokeWidth": {"value": 2}
+           }
         }
       }
     ]
